@@ -1,0 +1,131 @@
+Sample_num,Construct,Date,Passage_num,Original_Fitness,Passage_Fitness,Passage_Time,Mutants,Notes_on_Mutants,Fitness_Lrg_plqs,Fitness_Sm_plqs,sci,ngenes,set,gene
+41,F_worst_0.5_rep2,2021-09-08,1,16.62,17.670000000000002,0.6,N,NA,NA,NA,lu,1,Worst-1,H
+41,F_worst_0.5_rep2,2021-09-10,2,16.62,19.46,0.6,N,NA,NA,NA,lu,1,Worst-1,H
+41,F_worst_0.5_rep2,2021-09-14,3,16.62,20.5,0.6,N,NA,NA,NA,lu,1,Worst-1,H
+41,F_worst_0.5_rep2,2021-09-15,4,16.62,19.579999999999998,0.6,N,NA,NA,NA,lu,1,Worst-1,H
+41,F_worst_0.5_rep2,2021-09-16,5,16.62,18.87,0.6,N,NA,NA,NA,lu,1,Worst-1,H
+R51,G_worst_0.5_rep2,2021-09-08,1,14.47,14.5,0.75,N,NA,NA,NA,lu,1,Worst-1,H
+R51,G_worst_0.5_rep2,2021-09-10,2,14.47,13.98,0.75,N,NA,NA,NA,lu,1,Worst-1,H
+R51,G_worst_0.5_rep2,2021-09-14,3,14.47,16.27,0.75,N,NA,NA,NA,lu,1,Worst-1,H
+R51,G_worst_0.5_rep2,2021-09-15,4,14.47,20.56,0.6,N,NA,NA,NA,lu,1,Worst-1,H
+R51,G_worst_0.5_rep2,2021-09-16,5,14.47,22.01,0.6,N,NA,NA,NA,lu,1,Worst-1,H
+R60,H_worst_0.5_rep1,2021-09-08,1,16.43,19.690000000000001,0.6,Y,1 lg plq on T40,NA,NA,lu,1,Worst-1,H
+R60,H_worst_0.5_rep1,2021-09-10,2,16.43,16.8,0.5,Y,1 lg plq on T0; 3 on T30,NA,NA,lu,1,Worst-1,H
+R60,H_worst_0.5_rep1,2021-09-14,3,16.43,20.2,0.6,Y,2 lg plqs on T0; 27 on T40,NA,NA,lu,1,Worst-1,H
+R60,H_worst_0.5_rep1,2021-09-15,4,16.43,20.43,0.6,Y,14 lg plqs on T0; 37 on T40,NA,NA,lu,1,Worst-1,H
+R60,H_worst_0.5_rep1,2021-09-16,5,16.43,22.07,0.6,NA,NA,NA,NA,lu,1,Worst-1,H
+45,F_worst_0.75_rep3,2021-09-21,1,13.66,12.75,0.75,N,NA,NA,NA,lu,1,Worst-2,H
+45,F_worst_0.75_rep3,2021-09-22,2,13.66,12.83,0.75,N,NA,NA,NA,lu,1,Worst-2,H
+45,F_worst_0.75_rep3,2021-09-23,3,13.66,13.84,0.75,N,NA,NA,NA,lu,1,Worst-2,H
+45,F_worst_0.75_rep3,2021-10-11,4,13.66,13.41,0.75,N,NA,NA,NA,lu,1,Worst-2,H
+45,F_worst_0.75_rep3,2021-10-13,5,13.66,13.91,0.75,N,NA,NA,NA,lu,1,Worst-2,H
+52,G_worst_0.5_rep3,2021-09-21,1,15.64,14.86,0.6,N,NA,NA,NA,lu,1,Worst-2,H
+52,G_worst_0.5_rep3,2021-09-22,2,15.64,14.95,0.75,N,NA,NA,NA,lu,1,Worst-2,H
+52,G_worst_0.5_rep3,2021-09-23,3,15.64,15.42,1,N,NA,NA,NA,lu,1,Worst-2,H
+52,G_worst_0.5_rep3,2021-10-11,4,15.64,15.56,0.75,N,NA,NA,NA,lu,1,Worst-2,H
+52,G_worst_0.5_rep3,2021-10-13,5,15.64,16.100000000000001,0.75,N,NA,NA,NA,lu,1,Worst-2,H
+R66,H_worst_1.0_rep1,2021-09-21,1,18.170000000000002,17.850000000000001,1,N,NA,NA,NA,lu,1,Worst-2,H
+R66,H_worst_1.0_rep1,2021-09-22,2,18.170000000000002,20.37,0.6,N,NA,NA,NA,lu,1,Worst-2,H
+R66,H_worst_1.0_rep1,2021-09-23,3,18.170000000000002,21.37,0.6,N,NA,NA,NA,lu,1,Worst-2,H
+R66,H_worst_1.0_rep1,2021-10-11,4,18.170000000000002,19.350000000000001,0.6,N,NA,NA,NA,lu,1,Worst-2,H
+R66,H_worst_1.0_rep1,2021-10-13,5,18.170000000000002,22.07,0.6,N,NA,NA,NA,lu,1,Worst-2,H
+R110,F_random_1.0_rep1,2021-08-25,1,14.7,13,0.67,N,NA,NA,NA,emma,1,Rand-1,H
+R110.1,F_random_1.0_rep1,2021-08-26,2,14.7,14.23,0.75,N,NA,NA,NA,emma,1,Rand-1,H
+R110.2,F_random_1.0_rep1,2021-08-27,3,14.7,12.55,0.75,N,NA,NA,NA,emma,1,Rand-1,H
+R110.3,F_random_1.0_rep1,2021-09-07,4,14.7,15.54,0.75,N,NA,NA,NA,emma,1,Rand-1,H
+R110.4,F_random_1.0_rep1,2021-09-08,5,14.7,15.02,0.67,N,NA,NA,NA,emma,1,Rand-1,H
+R125,G_random_1.0_rep1,2021-08-25,1,15.71,12.02,0.75,N,NA,NA,NA,emma,1,Rand-1,H
+R125,G_random_1.0_rep1,2021-08-26,1,15.71,11.25,0.75,N,NA,NA,NA,emma,1,Rand-1,H
+R125,G_random_1.0_rep1,2021-08-27,1,15.71,13.74,1.25,N,NA,NA,NA,emma,1,Rand-1,H
+R125.1,G_random_1.0_rep1,2021-09-07,2,15.71,16.38,0.75,N,NA,NA,NA,emma,1,Rand-1,H
+R125.2,G_random_1.0_rep1,2021-09-08,3,15.71,14.84,0.67,N,NA,NA,NA,emma,1,Rand-1,H
+R125.3,G_random_1.0_rep1,2021-09-09,4,15.71,13.32,0.67,N,NA,NA,NA,emma,1,Rand-1,H
+R125.4,G_random_1.0_rep1,2021-09-13,5,15.71,12.32,0.75,N,NA,NA,NA,emma,1,Rand-1,H
+R140,H_random_1.0_rep1,2021-08-25,1,17.03,14.43,0.75,N,NA,NA,NA,emma,1,Rand-1,H
+R140.1,H_random_1.0_rep1,2021-08-26,2,17.03,15.79,0.67,N,NA,NA,NA,emma,1,Rand-1,H
+R140.2,H_random_1.0_rep1,2021-08-27,3,17.03,15.24,0.67,N,NA,NA,NA,emma,1,Rand-1,H
+R140.3,H_random_1.0_rep1,2021-09-07,4,17.03,16.93,0.67,N,NA,NA,NA,emma,1,Rand-1,H
+R140.4,H_random_1.0_rep1,2021-09-08,5,17.03,17.43,0.67,N,NA,NA,NA,emma,1,Rand-1,H
+R129,G_random_max_rep2,2021-09-07,1,16.92,16.25,0.67,N,NA,NA,NA,emma,1,Rand-2,H
+R129.1,G_random_max_rep2,2021-09-08,2,16.92,16.010000000000002,0.67,N,NA,NA,NA,emma,1,Rand-2,H
+R129.2,G_random_max_rep2,2021-09-09,3,16.92,16.010000000000002,0.67,N,NA,NA,NA,emma,1,Rand-2,H
+R129.3,G_random_max_rep2,2021-09-13,4,16.92,13.97,0.67,N,NA,NA,NA,emma,1,Rand-2,H
+R129.4,G_random_max_rep2,2021-09-15,5,16.92,15,0.67,N,NA,NA,NA,emma,1,Rand-2,H
+R156,F_shuffle_1.0_rep2,2021-09-07,1,16.3,15.76,0.67,N,NA,NA,NA,emma,1,Shuf-1,H
+R156.1,F_shuffle_1.0_rep2,2021-09-08,2,16.3,16.78,0.67,N,NA,NA,NA,emma,1,Shuf-1,H
+R156.2,F_shuffle_1.0_rep2,2021-09-09,3,16.3,14.76,0.67,N,NA,NA,NA,emma,1,Shuf-1,H
+R156.3,F_shuffle_1.0_rep2,2021-09-13,4,16.3,14.97,0.67,N,NA,NA,NA,emma,1,Shuf-1,H
+R156.4,F_shuffle_1.0_rep2,2021-09-15,5,16.3,15.55,0.67,N,NA,NA,NA,emma,1,Shuf-1,H
+R113,F_random_max_rep1,2021-09-07,1,15.83,14.8,0.75,N,NA,NA,NA,emma,1,Rand-2,H
+R113.1,F_random_max_rep1,2021-09-08,2,15.83,15.24,0.67,N,NA,NA,NA,emma,1,Rand-2,H
+R113.2,F_random_max_rep1,2021-09-09,3,15.83,14.68,0.67,N,NA,NA,NA,emma,1,Rand-2,H
+R113.3,F_random_max_rep1,2021-09-13,4,15.83,13.71,0.67,N,NA,NA,NA,emma,1,Rand-2,H
+R113.4,F_random_max_rep1,2021-09-15,5,15.83,14.46,0.75,N,NA,NA,NA,emma,1,Rand-2,H
+R152,F_shuffle_0.75_rep1,2021-09-09,1,17.86,16.93,0.67,N,NA,NA,NA,emma,1,Shuf-2,H
+R152.1,F_shuffle_0.75_rep1,2021-09-13,2,17.86,16.73,0.67,N,NA,NA,NA,emma,1,Shuf-2,H
+R152.2,F_shuffle_0.75_rep1,2021-09-15,3,17.86,16.8,0.67,N,NA,NA,NA,emma,1,Shuf-2,H
+R152.3,F_shuffle_0.75_rep1,2021-09-16,4,17.86,16.02,0.67,N,NA,NA,NA,emma,1,Shuf-2,H
+R152.4,F_shuffle_0.75_rep1,2021-09-17,5,17.86,16.21,0.67,N,NA,NA,NA,emma,1,Shuf-2,H
+R164,G_shuffle_0.75_rep1,2021-09-09,1,9.73,NA,1.25,N,NA,NA,NA,emma,1,Shuf-2,H
+R164,G_shuffle_0.75_rep1,2021-09-13,1,9.73,9.9600000000000009,1.25,N,NA,NA,NA,emma,1,Shuf-2,H
+R164.1,G_shuffle_0.75_rep1,2021-09-15,2,9.73,11.08,0.75,Y,lrger plqs on T40, hard to count because not super distinguishable,NA,10.1614542555173,emma,1,Shuf-2,H
+R164.2,G_shuffle_0.75_rep1,2021-09-16,3,9.73,12.1,1,Y,lrger plqs on T0 and T40, almost impossible to count,12.0067560657184,12.2209343052104,emma,1,Shuf-2,H
+R164.3,G_shuffle_0.75_rep1,2021-09-17,4,9.73,14.13,0.75,Y,lrger plqs on T0 & T40, hard to count because not super distinguishable,14.2543467756338,13.8086051394125,emma,1,Shuf-2,H
+164.4,G_shuffle_0.75_rep1,2021-09-20,5,9.73,14.11,0.67,Y,lrger plqs on T0 & T40, hard to count because not super distinguishable,14.0501816762444,14.3587879242848,emma,1,Shuf-2,H
+R167,G_shuffle_1.0_rep1,2021-09-09,1,11.85,12.32,1.5,N,NA,NA,NA,emma,1,Shuf-1,H
+R167.1,G_shuffle_1.0_rep1,2021-09-13,2,11.85,9.9,0.75,N,NA,NA,NA,emma,1,Shuf-1,H
+R167.2,G_shuffle_1.0_rep1,2021-09-15,3,11.85,11.5,1,N,NA,NA,NA,emma,1,Shuf-1,H
+R167.2 (replate),G_shuffle_1.0_rep1,2021-09-15,3,11.85,10.99,1,N,NA,NA,NA,emma,1,Shuf-1,H
+R167.3,G_shuffle_1.0_rep1,2021-09-17,4,11.85,10.210000000000001,1,N,NA,NA,NA,emma,1,Shuf-1,H
+R167.4,G_shuffle_1.0_rep1,2021-09-20,5,11.85,12.98,1,N,NA,NA,NA,emma,1,Shuf-1,H
+R178,H_shuffle_0.75_rep3,2021-09-16,1,20.03,18.13,0.67,N,NA,NA,NA,emma,1,Shuf-2,H
+R178.1,H_shuffle_0.75_rep3,2021-09-17,2,20.03,19.260000000000002,0.67,N,NA,NA,NA,emma,1,Shuf-2,H
+R178.2,H_shuffle_0.75_rep3,2021-09-20,3,20.03,18.38,0.67,N,NA,NA,NA,emma,1,Shuf-2,H
+R178.3,H_shuffle_0.75_rep3,2021-09-22,4,20.03,20.11,0.67,N,NA,NA,NA,emma,1,Shuf-2,H
+R178.4,H_shuffle_0.75_rep3,2021-09-23,5,20.03,19.16,0.67,N,NA,NA,NA,emma,1,Shuf-2,H
+R179-1,H_shuffle_1.0_rep1,2021-09-20,1,19.89,18.989999999999998,0.67,N,NA,NA,NA,emma,1,Shuf-1,H
+R179-1.1,H_shuffle_1.0_rep1,2021-09-22,2,19.89,20.21,0.67,N,NA,NA,NA,emma,1,Shuf-1,H
+R179-1.2,H_shuffle_1.0_rep1,2021-09-27,3,19.89,17.93,0.67,N,NA,NA,NA,emma,1,Shuf-1,H
+R179-1.3,H_shuffle_1.0_rep1,2021-09-29,4,19.89,20.27,0.67,N,NA,NA,NA,emma,1,Shuf-1,H
+R179.4,H_shuffle_1.0_rep1,2021-09-30,5,19.89,16.16,0.67,N,NA,NA,NA,emma,1,Shuf-1,H
+R144-1,H_random_max_rep2,2021-09-27,1,16.14,15.04,0.75,N,NA,NA,NA,emma,1,Rand-2,H
+R144-1.1,H_random_max_rep2,2021-09-29,2,16.14,13.93,0.67,N,NA,NA,NA,emma,1,Rand-2,H
+R144-1.2,H_random_max_rep2,2021-09-30,3,16.14,14.02,0.67,N,NA,NA,NA,emma,1,Rand-2,H
+R144-1.3,H_random_max_rep2,2021-10-06,4,16.14,15.15,0.67,N,NA,NA,NA,emma,1,Rand-2,H
+R144-1.4,H_random_max_rep2,2021-10-07,5,16.14,14.76,0.67,N,NA,NA,NA,emma,1,Rand-2,H
+R107,F_random_0.75_rep1,2021-10-18,1,15.26,12.74,0.67,N,NA,NA,NA,emma,1,Rand-3,H
+R107.1,F_random_0.75_rep1,2021-10-20,2,15.26,14.53,0.75,N,NA,NA,NA,emma,1,Rand-3,H
+R139,H_random_0.75_rep3,2021-10-18,1,18.11,15.9,0.67,N,NA,NA,NA,emma,1,Rand-3,H
+R139.1,H_random_0.75_rep3,2021-10-20,2,18.11,16.100000000000001,0.67,N,NA,NA,NA,emma,1,Rand-3,H
+R122,G_random_0.75_rep1,2021-10-18,1,14.39,11.75,0.67,N,NA,NA,NA,emma,1,Rand-3,H
+R122.1,G_random_0.75_rep1,2021-10-20,2,14.39,11.58,0.75,N,NA,NA,NA,emma,1,Rand-3,H
+R107.1,F_random_0.75_rep1,2021-05-26,1,NA,13.1971,0.667,No,NA,N/A,NA,jacob,1,Rand-3,H
+R107.2,F_random_0.75_rep1,2021-05-28,2,NA,14.5547791756942,0.667,No,NA,N/A,NA,jacob,1,Rand-3,H
+R107.3,F_random_0.75_rep1,2021-06-02,3,NA,14.5752083669744,0.667,No,NA,N/A,NA,jacob,1,Rand-3,H
+R107.4,F_random_0.75_rep1,2021-06-07,4,NA,15.0609259255642,0.667,No,NA,N/A,NA,jacob,1,Rand-3,H
+R107.5,F_random_0.75_rep1,2021-06-10,5,NA,14.5530224697159,0.667,No,no mutants, still ran pcr on a 5th passage plaque to be sure there are no mutants,N/A,NA,jacob,1,Rand-3,H
+R122.1,G_random_0.75_rep1,2021-06-07,1,NA,11.5748903756548,0.667,Yes,Mutant plaques appear to have a 'fuzzy halo' rather than being larger in size,N/A,NA,jacob,1,Rand-3,H
+R122.2,G_random_0.75_rep1,2021-06-10,2,NA,12.6393591479243,0.667,Yes,same as passage before,15.729914687150938,NA,jacob,1,Rand-3,H
+R122.3,G_random_0.75_rep1,2021-06-11,3,NA,11.6371314773345,0.667,Yes,incubated plates for 3 hours before setting them on desk, mutants were more visible,12.06465354140034,NA,jacob,1,Rand-3,H
+R122.4,G_random_0.75_rep1,2021-06-14,4,NA,13.2029897472901,0.667,Yes,same as passage before,15.281260944095884,NA,jacob,1,Rand-3,H
+R122.5,G_random_0.75_rep1,2021-06-17,5,NA,13.0683157289286,0.667,Yes,plates were left on desk for too long making mutants less visible,14.727305002946379,NA,jacob,1,Rand-3,H
+R139.1,H_random_0.75_rep3,2021-06-11,1,NA,16.1309346434703,0.667,No,NA,N/A,NA,jacob,1,Rand-3,H
+R139.2,H_random_0.75_rep3,2021-06-14,2,NA,16.666007292533,0.667,No,NA,N/A,NA,jacob,1,Rand-3,H
+R139.3,H_random_0.75_rep3,2021-06-16,3,NA,17.1023504711315,0.667,No,NA,N/A,NA,jacob,1,Rand-3,H
+R139.4,H_random_0.75_rep3,2021-06-17,4,NA,16.4038037671668,0.667,No,NA,N/A,NA,jacob,1,Rand-3,H
+R139.5,H_random_0.75_rep3,2021-06-18,5,NA,16.928759708063,0.667,No,no mutants, still ran pcr on a 5th passage plaque to be sure there are no mutants,N/A,NA,jacob,1,Rand-3,H
+R22,G_shuffle_0.5_rep2,2021-06-03,1,NA,13.5322245109975,0.66,NA,NA,NA,NA,tessa,1,Shuf-3,H
+R22.1,G_shuffle_0.5_rep2,2021-06-04,2,NA,14.6638803915613,0.66,NA,NA,NA,NA,tessa,1,Shuf-3,H
+R22.2,G_shuffle_0.5_rep2,2021-06-06,3,NA,13.5152007989606,0.66,NA,NA,NA,NA,tessa,1,Shuf-3,H
+R22.3,G_shuffle_0.5_rep2,2021-06-08,4,NA,14.1559531396241,0.66,NA,NA,NA,NA,tessa,1,Shuf-3,H
+R22.4,G_shuffle_0.5_rep2,2021-06-10,5,NA,14.9948450058369,0.66,NA,NA,NA,NA,tessa,1,Shuf-3,H
+157,F_shuffle_1.0_rep3,2021-05-26,1,NA,10.4765139390021,0.66,NA,NA,NA,NA,tessa,1,Shuf-3,H
+157.1,F_shuffle_1.0_rep3,2021-06-01,2,NA,12.8172389696538,0.66,NA,157.1 (5E-4) I saw two mutant plaques. There was no growth on the rest of the dilution plates.,NA,NA,tessa,1,Shuf-3,H
+157.19999999999999,F_shuffle_1.0_rep3,2021-06-02,3,NA,17.6800125338652,0.66,NA,NA,NA,NA,tessa,1,Shuf-3,H
+157.30000000000001,F_shuffle_1.0_rep3,2021-06-03,4,NA,13.7750411341401,0.66,NA,First occurance of mutant plaques on 157.4,NA,NA,tessa,1,Shuf-3,H
+157.4,F_shuffle_1.0_rep3,2021-06-06,5,NA,15.3586146164899,0.66,NA,Many mutants were found,NA,NA,tessa,1,Shuf-3,H
+181,H_shuffle_1.0_rep3,2021-06-08,1,NA,16.1032479657226,0.66,NA,NA,NA,NA,tessa,1,Shuf-3,H
+181.1,H_shuffle_1.0_rep3,2021-06-08,2,NA,17.5911481826123,0.66,NA,NA,NA,NA,tessa,1,Shuf-3,H
+181.2,H_shuffle_1.0_rep3,2021-06-14,3,NA,16.6610326228967,0.66,NA,REdo,NA,NA,tessa,1,Shuf-3,H
+181.3,H_shuffle_1.0_rep3,2021-06-15,4,NA,18.1567263433146,0.66,NA,Was left in 3 mins more than normal for T40 (Time was altered in fitness equation),NA,NA,tessa,1,Shuf-3,H
+181.4,H_shuffle_1.0_rep3,2021-06-16,5,NA,13.090992337465,0.66,NA,NA,NA,NA,tessa,1,Shuf-3,H

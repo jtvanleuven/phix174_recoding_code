@@ -1,0 +1,30 @@
+# R
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+*.Rproj
+*.rds
+*.rda
+
+# Large data files excluded from the repo
+data/mpileup/
+*.mpileup
+*.bam
+*.bai
+
+# BLAST artifacts
+*.ndb
+*.nhr
+*.nin
+*.nsq
+*.nsd
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Python (not in this repo, but in case)
+__pycache__/
+*.pyc
+*.pkl

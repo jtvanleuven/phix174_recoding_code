@@ -1,0 +1,45 @@
+CORRECTED ANALYSES — fitness expressed relative to the same-day wild-type control
+(377 of 386 assays had a same-day WT control; all 126 constructs retained)
+============================================================================
+
+[1] Wild-type drift that motivates the correction
+  WT fitness vs assay day: r=-0.781, P=3.5e-16, n=73; slope -0.0216 doublings/day
+  WT mean fell from 21.32 (Aug-Sep 2020) to 18.87 (Dec 2020-Feb 2021)
+
+[2] Fitness vs extent of recoding, per gene (relative fitness, doublings/hr below same-day WT)
+  F: n= 47  slope=-13.39 per fully recoded gene [95% CI -17.05, -9.73]  R2=0.547  P=0.0000
+  G: n= 41  slope= -9.90 per fully recoded gene [95% CI -16.88, -2.93]  R2=0.175  P=0.0065
+  H: n= 38  slope= -3.40 per fully recoded gene [95% CI -6.48, -0.32]  R2=0.122  P=0.0312
+  slopes per 100 codons changed:
+    F: -3.13 [-3.98, -2.27] P=0.0000
+    G: -5.63 [-9.59, -1.67] P=0.0065
+    H: -1.03 [-1.97, -0.10] P=0.0312
+  gene x extent interaction: F=4.16, P=0.0180
+  same test on absolute codons: F=4.71, P=0.0108
+
+[3] Recoding strategy, controlling for extent (worst/random/shuffle only)
+  adding strategy: F=0.51, P=0.599 (n=101)
+  worst   vs shuffle: -0.80 [-2.47, +0.87] P=0.345
+  random  vs shuffle: -0.12 [-1.71, +1.47] P=0.881
+  extent: -10.18 per fully recoded gene, P=2.4e-09
+  sensitivity (absolute codons): F=0.46, P=0.634
+  sensitivity (fraction): F=0.51, P=0.599
+
+[4] Variance components on relative fitness
+  worst/random/shuffle only: n=302 assays, 101 constructs, 39 treatments
+    among-construct SD=2.76, assay SD=0.99, ratio=2.8x, 88.7% of non-treatment variance
+  all constructs: n=377 assays, 126 constructs, 45 treatments
+    among-construct SD=2.76, assay SD=0.97, ratio=2.8x, 88.9% of non-treatment variance
+  per gene (worst/random/shuffle):
+    F: among-construct SD=2.25, assay SD=1.12, ratio=2.0x
+    G: among-construct SD=3.77, assay SD=0.93, ratio=4.1x
+    H: among-construct SD=1.74, assay SD=0.88, ratio=2.0x
+
+[5] Construction failures
+  137 constructs attempted, 126 recovered, 11 never recovered after three attempts.
+  (H worst 25% rep1 failed once then was recovered on a later attempt; it is a
+   recovered construct, not a failure.)
+  failures by gene: F 0/47, G 4/45, H 7/46
+  Fisher exact, F vs H: P=0.0056
+  Fisher exact, G vs H: P=0.522
+  by recoding level: 25% x1, 50% x5, 75% x2, 100% x2, max x1

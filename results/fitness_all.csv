@@ -1,0 +1,472 @@
+construct,sample,date,fitness,sci,gene,type,treat,rep,treat_numeric
+wt Sanger2mut,100-1,2020-09-08,22.31,emma,wt,wt,0%,1,0
+F random 25% rep 1,101,2020-09-08,20.5,emma,F,random,25%,1,0.25
+F random 25% rep 2,102,2020-09-08,20.47,emma,F,random,25%,2,0.25
+F random 25% rep 3,103,2020-09-08,20.42,emma,F,random,25%,3,0.25
+F random 50% rep 1,104,2020-09-08,19.14,emma,F,random,50%,1,0.5
+F random 50% rep 2,105,2020-09-08,19.04,emma,F,random,50%,2,0.5
+F random 50% rep 3,106,2020-09-08,19.71,emma,F,random,50%,3,0.5
+F random 75% rep 1,107,2020-09-08,15.01,emma,F,random,75%,1,0.75
+wt Sanger2mut,100-1,2020-09-09,21.59,emma,wt,wt,0%,1,0
+F random 25% rep 1,101,2020-09-09,20.04,emma,F,random,25%,1,0.25
+F random 25% rep 2,102,2020-09-09,20.85,emma,F,random,25%,2,0.25
+F random 25% rep 3,103,2020-09-09,19.87,emma,F,random,25%,3,0.25
+F random 50% rep 1,104,2020-09-09,20.14,emma,F,random,50%,1,0.5
+F random 50% rep 2,105,2020-09-09,19.35,emma,F,random,50%,2,0.5
+F random 50% rep 3,106,2020-09-09,20.14,emma,F,random,50%,3,0.5
+F random 75% rep 1,107,2020-09-09,15.97,emma,F,random,75%,1,0.75
+wt Sanger2mut,100-1,2020-09-10,21.19,emma,wt,wt,0%,1,0
+F random 25% rep 1,101,2020-09-10,21.32,emma,F,random,25%,1,0.25
+F random 25% rep 2,102,2020-09-10,19.9,emma,F,random,25%,2,0.25
+F random 25% rep 3,103,2020-09-10,20.44,emma,F,random,25%,3,0.25
+F random 50% rep 1,104,2020-09-10,20.57,emma,F,random,50%,1,0.5
+F random 50% rep 2,105,2020-09-10,18.75,emma,F,random,50%,2,0.5
+F random 50% rep 3,106,2020-09-10,20.03,emma,F,random,50%,3,0.5
+F random 75% rep 1,107,2020-09-10,14.79,emma,F,random,75%,1,0.75
+wt Sanger2mut,100-1,2020-09-13,21.54,emma,wt,wt,0%,1,0
+F random 75% rep 2,108,2020-09-13,18.05,emma,F,random,75%,2,0.75
+F random 100% rep 1,110,2020-09-13,14.39,emma,F,random,100%,1,1
+F random 100% rep 3,112,2020-09-13,15.43,emma,F,random,100%,3,1
+F random max rep 1,113,2020-09-13,15.89,emma,F,random,max,1,1.25
+G random 25% rep 1,116,2020-09-13,20.25,emma,G,random,25%,1,0.25
+G random 25% rep 2,117,2020-09-13,20.59,emma,G,random,25%,2,0.25
+G random 25% rep 3,118,2020-09-13,18.71,emma,G,random,25%,3,0.25
+wt Sanger2mut,100-1,2020-09-16,21.64,emma,wt,wt,0%,1,0
+F random 75% rep 2,108,2020-09-16,18.26,emma,F,random,75%,2,0.75
+F random 75% rep 3,109,2020-09-16,10.03,emma,F,random,75%,3,0.75
+F random 100% rep 1,110,2020-09-16,15.64,emma,F,random,100%,1,1
+F random 100% rep 3,112,2020-09-16,14.66,emma,F,random,100%,3,1
+F random max rep 1,113,2020-09-16,16.26,emma,F,random,max,1,1.25
+F random max rep 2,114,2020-09-16,13.77,emma,F,random,max,2,1.25
+F random max rep 3,115,2020-09-16,11.02,emma,F,random,max,3,1.25
+G random 25% rep 1,116,2020-09-16,20.99,emma,G,random,25%,1,0.25
+G random 25% rep 2,117,2020-09-16,21,emma,G,random,25%,2,0.25
+G random 25% rep 3,118,2020-09-16,18.4,emma,G,random,25%,3,0.25
+wt Sanger2mut,100-1,2020-09-17,22.28,emma,wt,wt,0%,1,0
+F random 75% rep 2,108,2020-09-17,18.3,emma,F,random,75%,2,0.75
+F random 75% rep 3,109,2020-09-17,10.4,emma,F,random,75%,3,0.75
+F random 100% rep 1,110,2020-09-17,14.06,emma,F,random,100%,1,1
+F random 100% rep 2,111,2020-09-17,6.85,emma,F,random,100%,2,1
+F random 100% rep 3,112,2020-09-17,17.85,emma,F,random,100%,3,1
+F random max rep 1,113,2020-09-17,15.35,emma,F,random,max,1,1.25
+F random max rep 2,114,2020-09-17,12.73,emma,F,random,max,2,1.25
+F random max rep 3,115,2020-09-17,10.58,emma,F,random,max,3,1.25
+G random 25% rep 1,116,2020-09-17,20.16,emma,G,random,25%,1,0.25
+G random 25% rep 2,117,2020-09-17,21.16,emma,G,random,25%,2,0.25
+G random 25% rep 3,118,2020-09-17,18.28,emma,G,random,25%,3,0.25
+wt Sanger2mut,100-1,2020-09-21,21.44,emma,wt,wt,0%,1,0
+F random 75% rep 3,109,2020-09-21,10.07,emma,F,random,75%,3,0.75
+F random 100% rep 2,111,2020-09-21,6.02,emma,F,random,100%,2,1
+F random max rep 2,114,2020-09-21,12.67,emma,F,random,max,2,1.25
+F random max rep 3,115,2020-09-21,10.85,emma,F,random,max,3,1.25
+G random 50% rep 1,119,2020-09-21,19.59,emma,G,random,50%,1,0.5
+G random 50% rep 3,121,2020-09-21,18.01,emma,G,random,50%,3,0.5
+G random 75% rep 1,122,2020-09-21,14.39,emma,G,random,75%,1,0.75
+G random 75% rep 3,124,2020-09-21,17.63,emma,G,random,75%,3,0.75
+G random 100% rep 1,125,2020-09-21,15.62,emma,G,random,100%,1,1
+G random max rep 2,129,2020-09-21,17.1,emma,G,random,max,2,1.25
+wt Sanger2mut,100-1,2020-09-22,21.06,emma,wt,wt,0%,1,0
+F random 100% rep 2,111,2020-09-22,5.5,emma,F,random,100%,2,1
+G random 50% rep 1,119,2020-09-22,19.53,emma,G,random,50%,1,0.5
+G random 50% rep 3,121,2020-09-22,18.26,emma,G,random,50%,3,0.5
+G random 75% rep 1,122,2020-09-22,14.17,emma,G,random,75%,1,0.75
+G random 75% rep 2,123,2020-09-22,13.11,emma,G,random,75%,2,0.75
+G random 75% rep 3,124,2020-09-22,18.33,emma,G,random,75%,3,0.75
+G random 100% rep 1,125,2020-09-22,16.03,emma,G,random,100%,1,1
+G random 100% rep 3,127,2020-09-22,12.91,emma,G,random,100%,3,1
+G random max rep 1,128,2020-09-22,11.46,emma,G,random,max,1,1.25
+G random max rep 2,129,2020-09-22,17,emma,G,random,max,2,1.25
+G random max rep 3,130,2020-09-22,11.74,emma,G,random,max,3,1.25
+wt Sanger2mut,100-1,2020-09-23,20.55,emma,wt,wt,0%,1,0
+G random 50% rep 1,119,2020-09-23,19.94,emma,G,random,50%,1,0.5
+G random 50% rep 3,121,2020-09-23,19.04,emma,G,random,50%,3,0.5
+G random 75% rep 1,122,2020-09-23,14.6,emma,G,random,75%,1,0.75
+G random 75% rep 2,123,2020-09-23,12.7,emma,G,random,75%,2,0.75
+G random 75% rep 3,124,2020-09-23,17.56,emma,G,random,75%,3,0.75
+G random 100% rep 1,125,2020-09-23,15.49,emma,G,random,100%,1,1
+G random 100% rep 3,127,2020-09-23,12.53,emma,G,random,100%,3,1
+G random max rep 1,128,2020-09-23,11.03,emma,G,random,max,1,1.25
+G random max rep 2,129,2020-09-23,16.67,emma,G,random,max,2,1.25
+G random max rep 3,130,2020-09-23,12.33,emma,G,random,max,3,1.25
+wt Sanger2mut,100-1,2020-09-24,22.05,emma,wt,wt,0%,1,0
+G random 50% rep 2,120,2020-09-24,7.13,emma,G,random,50%,2,0.5
+G random 75% rep 2,123,2020-09-24,11.3,emma,G,random,75%,2,0.75
+G random 100% rep 3,127,2020-09-24,12.86,emma,G,random,100%,3,1
+G random max rep 1,128,2020-09-24,11.22,emma,G,random,max,1,1.25
+G random max rep 3,130,2020-09-24,11.99,emma,G,random,max,3,1.25
+H random 25% rep 1,131,2020-09-24,20.56,emma,H,random,25%,1,0.25
+H random 25% rep 2,132,2020-09-24,20.81,emma,H,random,25%,2,0.25
+H random 25% rep 3,133,2020-09-24,20.63,emma,H,random,25%,3,0.25
+H random 50% rep 2,135,2020-09-24,19.88,emma,H,random,50%,2,0.5
+H random 75% rep 1,137,2020-09-24,19.95,emma,H,random,75%,1,0.75
+H random 75% rep 3,139,2020-09-24,18.6,emma,H,random,75%,3,0.75
+H random 100% rep 1,140,2020-09-24,17.08,emma,H,random,100%,1,1
+H random 100% rep 3,142,2020-09-24,16.2,emma,H,random,100%,3,1
+H random max rep 1,143,2020-09-24,15.46,emma,H,random,max,1,1.25
+H random max rep 2,144,2020-09-24,16.08,emma,H,random,max,2,1.25
+wt Sanger2mut,100-1,2020-09-28,21.62,emma,wt,wt,0%,1,0
+G random 50% rep 2,120,2020-09-28,7.54,emma,G,random,50%,2,0.5
+H random 25% rep 1,131,2020-09-28,21.62,emma,H,random,25%,1,0.25
+H random 25% rep 2,132,2020-09-28,21.32,emma,H,random,25%,2,0.25
+H random 25% rep 3,133,2020-09-28,21.23,emma,H,random,25%,3,0.25
+H random 50% rep 2,135,2020-09-28,19.98,emma,H,random,50%,2,0.5
+H random 75% rep 1,137,2020-09-28,19.44,emma,H,random,75%,1,0.75
+H random 75% rep 3,139,2020-09-28,17.65,emma,H,random,75%,3,0.75
+H random 100% rep 1,140,2020-09-28,16.87,emma,H,random,100%,1,1
+H random 100% rep 3,142,2020-09-28,15.89,emma,H,random,100%,3,1
+H random max rep 1,143,2020-09-28,15.96,emma,H,random,max,1,1.25
+wt Sanger2mut,100-1,2020-09-29,21.15,emma,wt,wt,0%,1,0
+H random 25% rep 1,131,2020-09-29,21.96,emma,H,random,25%,1,0.25
+H random 25% rep 2,132,2020-09-29,21,emma,H,random,25%,2,0.25
+H random 25% rep 3,133,2020-09-29,20.16,emma,H,random,25%,3,0.25
+H random 50% rep 2,135,2020-09-29,21.31,emma,H,random,50%,2,0.5
+H random 75% rep 1,137,2020-09-29,20.39,emma,H,random,75%,1,0.75
+H random 75% rep 3,139,2020-09-29,18.09,emma,H,random,75%,3,0.75
+H random 100% rep 1,140,2020-09-29,17.15,emma,H,random,100%,1,1
+H random 100% rep 3,142,2020-09-29,16.58,emma,H,random,100%,3,1
+H random max rep 1,143,2020-09-29,16.09,emma,H,random,max,1,1.25
+H random max rep 2,144,2020-09-29,16,emma,H,random,max,2,1.25
+wt Sanger2mut,100-1,2020-10-01,21.27,emma,wt,wt,0%,1,0
+H random max rep 2,144,2020-10-01,16.33,emma,H,random,max,2,1.25
+F shuffle 25% rep 1,146,2020-10-01,21.36,emma,F,shuffle,25%,1,0.25
+F shuffle 25% rep 2,147,2020-10-01,19.43,emma,F,shuffle,25%,2,0.25
+F shuffle 25% rep 3,148,2020-10-01,20.8,emma,F,shuffle,25%,3,0.25
+F shuffle 75% rep 1,152,2020-10-01,18.72,emma,F,shuffle,75%,1,0.75
+F shuffle 75% rep 2,153,2020-10-01,15.96,emma,F,shuffle,75%,2,0.75
+F shuffle 100% rep 2,156,2020-10-01,16.18,emma,F,shuffle,100%,2,1
+G shuffle 25% rep 3,160,2020-10-01,17.26,emma,G,shuffle,25%,3,0.25
+wt Sanger2mut,100-3,2020-10-04,21.32,emma,wt,wt,0%,1,0
+wt Sanger2mut,100-3,2020-10-04,22.89,emma,wt,wt,0%,1,0
+F shuffle 25% rep 1,146,2020-10-04,20.81,emma,F,shuffle,25%,1,0.25
+F shuffle 25% rep 2,147,2020-10-04,19.33,emma,F,shuffle,25%,2,0.25
+F shuffle 25% rep 3,148,2020-10-04,20.32,emma,F,shuffle,25%,3,0.25
+F shuffle 75% rep 1,152,2020-10-04,18.07,emma,F,shuffle,75%,1,0.75
+F shuffle 75% rep 2,153,2020-10-04,14.97,emma,F,shuffle,75%,2,0.75
+F shuffle 75% rep 3,154,2020-10-04,20.1,emma,F,shuffle,75%,3,0.75
+F shuffle 100% rep 2,156,2020-10-04,16.77,emma,F,shuffle,100%,2,1
+F shuffle 100% rep 3,157,2020-10-04,13.81,emma,F,shuffle,100%,3,1
+G shuffle 25% rep 1,158,2020-10-04,20.94,emma,G,shuffle,25%,1,0.25
+G shuffle 75% rep 1,164,2020-10-04,9.12,emma,G,shuffle,75%,1,0.75
+G shuffle 100% rep 1,167,2020-10-04,12.41,emma,G,shuffle,100%,1,1
+wt Sanger2mut,100-3,2020-10-05,21.08,emma,wt,wt,0%,1,0
+wt Sanger2mut,100-3,2020-10-05,22.74,emma,wt,wt,0%,1,0
+F shuffle 25% rep 2,147,2020-10-05,19.75,emma,F,shuffle,25%,2,0.25
+F shuffle 25% rep 3,148,2020-10-05,20.78,emma,F,shuffle,25%,3,0.25
+F shuffle 75% rep 1,152,2020-10-05,16.78,emma,F,shuffle,75%,1,0.75
+F shuffle 75% rep 2,153,2020-10-05,14.72,emma,F,shuffle,75%,2,0.75
+F shuffle 75% rep 3,154,2020-10-05,19.22,emma,F,shuffle,75%,3,0.75
+F shuffle 100% rep 2,156,2020-10-05,15.94,emma,F,shuffle,100%,2,1
+F shuffle 100% rep 3,157,2020-10-05,13.97,emma,F,shuffle,100%,3,1
+G shuffle 25% rep 1,158,2020-10-05,19.78,emma,G,shuffle,25%,1,0.25
+G shuffle 25% rep 3,160,2020-10-05,17.01,emma,G,shuffle,25%,3,0.25
+G shuffle 75% rep 1,164,2020-10-05,9.67,emma,G,shuffle,75%,1,0.75
+G shuffle 100% rep 1,167,2020-10-05,10.88,emma,G,shuffle,100%,1,1
+wt Sanger2mut,100-3,2020-10-13,21.23,emma,wt,wt,0%,1,0
+wt Sanger2mut,100-3,2020-10-13,22.09,emma,wt,wt,0%,1,0
+G random 50% rep 2,120,2020-10-13,7.67,emma,G,random,50%,2,0.5
+F shuffle 75% rep 3,154,2020-10-13,19.71,emma,F,shuffle,75%,3,0.75
+F shuffle 100% rep 3,157,2020-10-13,14.65,emma,F,shuffle,100%,3,1
+G shuffle 25% rep 1,158,2020-10-13,21.2,emma,G,shuffle,25%,1,0.25
+G shuffle 25% rep 2,159,2020-10-13,19.96,emma,G,shuffle,25%,2,0.25
+G shuffle 25% rep 3,160,2020-10-13,16.87,emma,G,shuffle,25%,3,0.25
+G shuffle 75% rep 1,164,2020-10-13,10.41,emma,G,shuffle,75%,1,0.75
+G shuffle 100% rep 1,167,2020-10-13,12.25,emma,G,shuffle,100%,1,1
+H shuffle 25% rep 1,170,2020-10-13,20.87,emma,H,shuffle,25%,1,0.25
+H shuffle 25% rep 2,171,2020-10-13,21.65,emma,H,shuffle,25%,2,0.25
+H shuffle 25% rep 3,172,2020-10-13,19.9,emma,H,shuffle,25%,3,0.25
+H shuffle 75% rep 1,176,2020-10-13,20.58,emma,H,shuffle,75%,1,0.75
+wt Sanger2mut,100-3,2020-10-14,21.47,emma,wt,wt,0%,1,0
+F shuffle 25% rep 1,146,2020-10-14,21.61,emma,F,shuffle,25%,1,0.25
+G shuffle 25% rep 2,159,2020-10-14,20.16,emma,G,shuffle,25%,2,0.25
+H shuffle 25% rep 1,170,2020-10-14,20.95,emma,H,shuffle,25%,1,0.25
+H shuffle 25% rep 2,171,2020-10-14,20.24,emma,H,shuffle,25%,2,0.25
+H shuffle 25% rep 3,172,2020-10-14,21.22,emma,H,shuffle,25%,3,0.25
+H shuffle 75% rep 1,176,2020-10-14,21.36,emma,H,shuffle,75%,1,0.75
+H shuffle 75% rep 2,177,2020-10-14,20.49,emma,H,shuffle,75%,2,0.75
+H shuffle 75% rep 3,178,2020-10-14,20.25,emma,H,shuffle,75%,3,0.75
+H shuffle 100% rep 3,181,2020-10-14,17.94,emma,H,shuffle,100%,3,1
+wt Sanger2mut,100-3,2020-10-15,21.44,emma,wt,wt,0%,1,0
+G shuffle 25% rep 2,159,2020-10-15,19.27,emma,G,shuffle,25%,2,0.25
+H shuffle 25% rep 1,170,2020-10-15,20.6,emma,H,shuffle,25%,1,0.25
+H shuffle 25% rep 2,171,2020-10-15,20.04,emma,H,shuffle,25%,2,0.25
+H shuffle 25% rep 3,172,2020-10-15,18.62,emma,H,shuffle,25%,3,0.25
+H shuffle 75% rep 1,176,2020-10-15,21.13,emma,H,shuffle,75%,1,0.75
+H shuffle 75% rep 2,177,2020-10-15,20.64,emma,H,shuffle,75%,2,0.75
+H shuffle 75% rep 3,178,2020-10-15,20.65,emma,H,shuffle,75%,3,0.75
+H shuffle 100% rep 1,179,2020-10-15,20.92,emma,H,shuffle,100%,1,1
+H shuffle 100% rep 2,180,2020-10-15,20.4,emma,H,shuffle,100%,2,1
+H shuffle 100% rep 3,181,2020-10-15,17.73,emma,H,shuffle,100%,3,1
+wt Sanger2mut,100-3,2020-10-20,20.04,emma,wt,wt,0%,1,0
+H shuffle 75% rep 2,177,2020-10-20,19.78,emma,H,shuffle,75%,2,0.75
+H shuffle 75% rep 3,178,2020-10-20,19.19,emma,H,shuffle,75%,3,0.75
+H shuffle 100% rep 1,179,2020-10-20,19.66,emma,H,shuffle,100%,1,1
+H shuffle 100% rep 2,180,2020-10-20,20.01,emma,H,shuffle,100%,2,1
+H shuffle 100% rep 3,181,2020-10-20,17.53,emma,H,shuffle,100%,3,1
+wt Sanger2mut,100-3,2020-10-27,19.71,emma,wt,wt,0%,1,0
+F shuffle 100% rep 1,155,2020-10-27,13.87,emma,F,shuffle,100%,1,1
+H shuffle 75% rep 3,178,2020-10-27,20.12,emma,H,shuffle,75%,3,0.75
+H shuffle 100% rep 1,179,2020-10-27,19.09,emma,H,shuffle,100%,1,1
+wt Sanger2mut,100-3,2020-10-29,20.56,emma,wt,wt,0%,1,0
+G random 100% rep 2,126,2020-10-29,1.54,emma,G,random,100%,2,1
+F shuffle 100% rep 1,155,2020-10-29,14.78,emma,F,shuffle,100%,1,1
+H shuffle 100% rep 2,180,2020-10-29,20.19,emma,H,shuffle,100%,2,1
+wt Sanger2mut,100-3,2020-11-02,19.47,emma,wt,wt,0%,1,0
+F shuffle 100% rep 1,155,2020-11-02,13.3,emma,F,shuffle,100%,1,1
+wt Sanger2mut,100-3,2020-11-03,20.12,emma,wt,wt,0%,1,0
+wt Sanger2mut,100-3,2020-11-04,19.77,emma,wt,wt,0%,1,0
+G shuffle 75% rep 2,165,2020-11-04,5.12,emma,G,shuffle,75%,2,0.75
+wt Sanger2mut,100-3,2020-11-05,19.54,emma,wt,wt,0%,1,0
+G shuffle 75% rep 2,165,2020-11-05,5.52,emma,G,shuffle,75%,2,0.75
+wt Sanger2mut,100-3,2020-11-10,19.58,emma,wt,wt,0%,1,0
+G shuffle 75% rep 2,165,2020-11-10,6.15,emma,G,shuffle,75%,2,0.75
+wt Sanger2mut,100-3,2020-11-12,19.89,emma,wt,wt,0%,1,0
+wt Sanger2mut,100-3,2020-11-12,19.61,emma,wt,wt,0%,1,0
+wt Sanger2mut,100-3,2020-12-03,18.84,emma,wt,wt,0%,1,0
+wt Sanger2mut,100-3,2020-12-07,19.05,emma,wt,wt,0%,1,0
+wt Sanger2mut,100-4,2020-12-15,18.94,emma,wt,wt,0%,1,0
+wt Sanger2mut,100-4,2020-12-17,20.48,emma,wt,wt,0%,1,0
+wt Sanger2mut,100-4,2020-12-22,18.94,emma,wt,wt,0%,1,0
+wt Sanger2mut,100-4,2021-01-07,18.48,emma,wt,wt,0%,1,0
+G random 100% rep 2,126,2021-01-07,1.88,emma,G,random,100%,2,1
+G shuffle 100% rep 2,168,2021-01-07,1.39,emma,G,shuffle,100%,2,1
+wt Sanger2mut,100-4,2021-01-11,18.08,emma,wt,wt,0%,1,0
+G random 100% rep 2,126,2021-01-11,1.8,emma,G,random,100%,2,1
+G shuffle 100% rep 2,168,2021-01-11,1.47,emma,G,shuffle,100%,2,1
+wt Sanger2mut,100-4,2021-01-12,17.78,emma,wt,wt,0%,1,0
+wt Sanger2mut,100-4,2021-01-13,19.18,emma,wt,wt,0%,1,0
+G shuffle 100% rep 2,168,2021-01-13,0.57,emma,G,shuffle,100%,2,1
+wt Sanger 2xmut,1,2020-08-19,22.64,lu,wt,wt,0%,1,0
+stab_H_Lo1,2,2020-08-19,22.71,lu,H,shuffle_Lo,50%,1,0.5
+stab_H_Lo2,3,2020-08-19,21.87,lu,H,shuffle_Lo,50%,2,0.5
+stab_H_Lo3,4,2020-08-19,23.05,lu,H,shuffle_Lo,50%,3,0.5
+stab_H_Lo4,5,2020-08-19,24.35,lu,H,shuffle_Lo,50%,4,0.5
+stab_H_Hi1,6,2020-08-19,22.82,lu,H,shuffle_Hi,50%,1,0.5
+stab_H_Hi2,7,2020-08-19,21.51,lu,H,shuffle_Hi,50%,2,0.5
+stab_H_Hi3,8,2020-08-19,22.93,lu,H,shuffle_Hi,50%,3,0.5
+stab_H_Hi4,9,2020-08-19,21.87,lu,H,shuffle_Hi,50%,4,0.5
+H_0.5 shuf_rep1,10,2020-08-19,22.24,lu,H,shuffle,50%,1,0.5
+H_0.5 shuf_rep3,12,2020-08-19,22.98,lu,H,shuffle,50%,3,0.5
+wt Sanger 2xmut,1,2020-08-20,22.47,lu,wt,wt,0%,1,0
+stab_H_Lo1,2,2020-08-20,22.79,lu,H,shuffle_Lo,50%,1,0.5
+stab_H_Lo2,3,2020-08-20,23.31,lu,H,shuffle_Lo,50%,2,0.5
+stab_H_Lo3,4,2020-08-20,21.13,lu,H,shuffle_Lo,50%,3,0.5
+stab_H_Lo4,5,2020-08-20,20.49,lu,H,shuffle_Lo,50%,4,0.5
+stab_H_Hi1,6,2020-08-20,21.82,lu,H,shuffle_Hi,50%,1,0.5
+stab_H_Hi2,7,2020-08-20,21.25,lu,H,shuffle_Hi,50%,2,0.5
+stab_H_Hi3,8,2020-08-20,21.51,lu,H,shuffle_Hi,50%,3,0.5
+stab_H_Hi4,9,2020-08-20,20.96,lu,H,shuffle_Hi,50%,4,0.5
+H_0.5 shuf_rep1,10,2020-08-20,20.99,lu,H,shuffle,50%,1,0.5
+H_0.5 shuf_rep3,12,2020-08-20,22.11,lu,H,shuffle,50%,3,0.5
+wt Sanger 2xmut,1,2020-08-24,21.03,lu,wt,wt,0%,1,0
+stab_H_Lo1,2,2020-08-24,19.92,lu,H,shuffle_Lo,50%,1,0.5
+stab_H_Lo2,3,2020-08-24,20.72,lu,H,shuffle_Lo,50%,2,0.5
+stab_H_Lo3,4,2020-08-24,21.08,lu,H,shuffle_Lo,50%,3,0.5
+stab_H_Lo4,5,2020-08-24,21.53,lu,H,shuffle_Lo,50%,4,0.5
+stab_H_Hi1,6,2020-08-24,21.13,lu,H,shuffle_Hi,50%,1,0.5
+stab_H_Hi2,7,2020-08-24,20.76,lu,H,shuffle_Hi,50%,2,0.5
+stab_H_Hi3,8,2020-08-24,21.65,lu,H,shuffle_Hi,50%,3,0.5
+H_0.5 shuf_rep1,10,2020-08-24,19.49,lu,H,shuffle,50%,1,0.5
+H_0.5 shuf_rep3,12,2020-08-24,20.76,lu,H,shuffle,50%,3,0.5
+wt Sanger 2xmut,1,2020-08-26,20.67,lu,wt,wt,0%,1,0
+stab_G_Lo2,14,2020-08-26,18.07,lu,G,shuffle_Lo,50%,2,0.5
+stab_G_Lo3,15,2020-08-26,17.8,lu,G,shuffle_Lo,50%,3,0.5
+stab_G_Hi2,18,2020-08-26,18.32,lu,G,shuffle_Hi,50%,2,0.5
+stab_G_Hi3,19,2020-08-26,18.24,lu,G,shuffle_Hi,50%,3,0.5
+G_0.5shuf_rep2,22,2020-08-26,16.05,lu,G,shuffle,50%,2,0.5
+G_0.5shuf_rep3,23,2020-08-26,20.16,lu,G,shuffle,50%,3,0.5
+F_0.5shuf_rep2,35,2020-08-26,18.84,lu,F,shuffle,50%,2,0.5
+wt Sanger 2xmut,1,2020-08-27,20.27,lu,wt,wt,0%,1,0
+stab_G_Lo2,14,2020-08-27,20.39,lu,G,shuffle_Lo,50%,2,0.5
+stab_G_Lo3,15,2020-08-27,17.9,lu,G,shuffle_Lo,50%,3,0.5
+stab_G_Hi1,17,2020-08-27,12.02,lu,G,shuffle_Hi,50%,1,0.5
+stab_G_Hi2,18,2020-08-27,19.5,lu,G,shuffle_Hi,50%,2,0.5
+stab_G_Hi3,19,2020-08-27,18.42,lu,G,shuffle_Hi,50%,3,0.5
+G_0.5shuf_rep2,22,2020-08-27,15.85,lu,G,shuffle,50%,2,0.5
+G_0.5shuf_rep3,23,2020-08-27,20.28,lu,G,shuffle,50%,3,0.5
+F_0.5shuf_rep2,35,2020-08-27,17.7,lu,F,shuffle,50%,2,0.5
+wt Sanger 2xmut,1,2020-08-28,20.07,lu,wt,wt,0%,1,0
+stab_G_Lo2,14,2020-08-28,20.34,lu,G,shuffle_Lo,50%,2,0.5
+stab_G_Lo3,15,2020-08-28,18.77,lu,G,shuffle_Lo,50%,3,0.5
+stab_G_Hi1,17,2020-08-28,10.94,lu,G,shuffle_Hi,50%,1,0.5
+stab_G_Hi2,18,2020-08-28,19.23,lu,G,shuffle_Hi,50%,2,0.5
+stab_G_Hi3,19,2020-08-28,19.83,lu,G,shuffle_Hi,50%,3,0.5
+G_0.5shuf_rep2,22,2020-08-28,15.72,lu,G,shuffle,50%,2,0.5
+G_0.5shuf_rep3,23,2020-08-28,20.06,lu,G,shuffle,50%,3,0.5
+F_0.5shuf_rep2,35,2020-08-28,18.37,lu,F,shuffle,50%,2,0.5
+wt Sanger 2xmut,1,2020-09-01,20.45,lu,wt,wt,0%,1,0
+stab_F_Lo1,24,2020-09-01,19.24,lu,F,shuffle_Lo,50%,1,0.5
+stab_F_Lo2,25,2020-09-01,18.91,lu,F,shuffle_Lo,50%,2,0.5
+stab_F_Lo3,26,2020-09-01,18.81,lu,F,shuffle_Lo,50%,3,0.5
+stab_F_Lo4,27,2020-09-01,18.07,lu,F,shuffle_Lo,50%,4,0.5
+stab_F_Hi1,28,2020-09-01,19.77,lu,F,shuffle_Hi,50%,1,0.5
+stab_F_Hi2,29,2020-09-01,18.48,lu,F,shuffle_Hi,50%,2,0.5
+stab_F_Hi3,30,2020-09-01,19.56,lu,F,shuffle_Hi,50%,3,0.5
+stab_F_Hi4,31,2020-09-01,18.7,lu,F,shuffle_Hi,50%,4,0.5
+F_0.5shuf_rep1,34,2020-09-01,20.63,lu,F,shuffle,50%,1,0.5
+F_0.5shuf_rep3,36,2020-09-01,19.36,lu,F,shuffle,50%,3,0.5
+wt Sanger 2xmut,1,2020-09-02,20.6,lu,wt,wt,0%,1,0
+stab_G_Hi4,20,2020-09-02,6.6,lu,G,shuffle_Hi,50%,4,0.5
+stab_F_Lo1,24,2020-09-02,18.56,lu,F,shuffle_Lo,50%,1,0.5
+stab_F_Lo2,25,2020-09-02,19.38,lu,F,shuffle_Lo,50%,2,0.5
+stab_F_Lo3,26,2020-09-02,19.31,lu,F,shuffle_Lo,50%,3,0.5
+stab_F_Lo4,27,2020-09-02,19.14,lu,F,shuffle_Lo,50%,4,0.5
+stab_F_Hi1,28,2020-09-02,18.18,lu,F,shuffle_Hi,50%,1,0.5
+stab_F_Hi2,29,2020-09-02,17.76,lu,F,shuffle_Hi,50%,2,0.5
+stab_F_Hi3,30,2020-09-02,19.61,lu,F,shuffle_Hi,50%,3,0.5
+stab_F_Hi4,31,2020-09-02,18.79,lu,F,shuffle_Hi,50%,4,0.5
+F_0.5shuf_rep1,34,2020-09-02,20.23,lu,F,shuffle,50%,1,0.5
+F_0.5shuf_rep3,36,2020-09-02,19.19,lu,F,shuffle,50%,3,0.5
+wt Sanger 2xmut,1,2020-09-03,21.16,lu,wt,wt,0%,1,0
+stab_G_Hi4,20,2020-09-03,7.08,lu,G,shuffle_Hi,50%,4,0.5
+stab_F_Lo1,24,2020-09-03,18.22,lu,F,shuffle_Lo,50%,1,0.5
+stab_F_Lo2,25,2020-09-03,19.55,lu,F,shuffle_Lo,50%,2,0.5
+stab_F_Lo3,26,2020-09-03,20.3,lu,F,shuffle_Lo,50%,3,0.5
+stab_F_Lo4,27,2020-09-03,18.47,lu,F,shuffle_Lo,50%,4,0.5
+stab_F_Hi1,28,2020-09-03,20.01,lu,F,shuffle_Hi,50%,1,0.5
+stab_F_Hi2,29,2020-09-03,18.17,lu,F,shuffle_Hi,50%,2,0.5
+stab_F_Hi3,30,2020-09-03,19.92,lu,F,shuffle_Hi,50%,3,0.5
+stab_F_Hi4,31,2020-09-03,20.58,lu,F,shuffle_Hi,50%,4,0.5
+F_0.5shuf_rep1,34,2020-09-03,19.66,lu,F,shuffle,50%,1,0.5
+F_0.5shuf_rep3,36,2020-09-03,19.04,lu,F,shuffle,50%,3,0.5
+wt Sanger 2xmut,1,2020-10-07,20.3,lu,wt,wt,0%,1,0
+stab_F_XHi1,32,2020-10-07,17.43,lu,F,shuffle_Hi,50%,X1,0.5
+stab_F_XHi2,33,2020-10-07,20.47,lu,F,shuffle_Hi,50%,X2,0.5
+F_0.25worst_rep1,37,2020-10-07,18.07,lu,F,worst,25%,1,0.25
+F_0.25worst_rep2,38,2020-10-07,18.94,lu,F,worst,25%,2,0.25
+F_0.25worst_rep3,39,2020-10-07,17.88,lu,F,worst,25%,3,0.25
+F_0.5worst_rep1,40,2020-10-07,16.51,lu,F,worst,50%,1,0.5
+F_0.5worst_rep2,41,2020-10-07,16.37,lu,F,worst,50%,2,0.5
+F_0.5worst_rep3,42,2020-10-07,19.87,lu,F,worst,50%,3,0.5
+stab_F_XHi2,33,2020-10-08,20.6,lu,F,shuffle_Hi,50%,X2,0.5
+F_0.25worst_rep1,37,2020-10-08,18.72,lu,F,worst,25%,1,0.25
+F_0.25worst_rep2,38,2020-10-08,21.34,lu,F,worst,25%,2,0.25
+F_0.25worst_rep3,39,2020-10-08,20.15,lu,F,worst,25%,3,0.25
+F_0.5worst_rep1,40,2020-10-08,18.52,lu,F,worst,50%,1,0.5
+F_0.5worst_rep2,41,2020-10-08,16.99,lu,F,worst,50%,2,0.5
+F_0.5worst_rep3,42,2020-10-08,16.57,lu,F,worst,50%,3,0.5
+F_0.75worst_rep1,43,2020-10-08,10.63,lu,F,worst,75%,1,0.75
+F_0.75worst_rep3,45,2020-10-08,13.57,lu,F,worst,75%,3,0.75
+wt Sanger 2xmut,1,2020-10-09,20.72,lu,wt,wt,0%,1,0
+stab_F_XHi1,32,2020-10-09,18.04,lu,F,shuffle_Hi,50%,X1,0.5
+stab_F_XHi2,33,2020-10-09,21.76,lu,F,shuffle_Hi,50%,X2,0.5
+F_0.25worst_rep1,37,2020-10-09,19.84,lu,F,worst,25%,1,0.25
+F_0.25worst_rep2,38,2020-10-09,22.13,lu,F,worst,25%,2,0.25
+F_0.25worst_rep3,39,2020-10-09,20.55,lu,F,worst,25%,3,0.25
+F_0.5worst_rep1,40,2020-10-09,23.17,lu,F,worst,50%,1,0.5
+F_0.5worst_rep2,41,2020-10-09,17.33,lu,F,worst,50%,2,0.5
+F_0.5worst_rep3,42,2020-10-09,16.07,lu,F,worst,50%,3,0.5
+F_0.75worst_rep1,43,2020-10-09,9.58,lu,F,worst,75%,1,0.75
+F_0.75worst_rep2,44,2020-10-09,10.68,lu,F,worst,75%,2,0.75
+F_0.75worst_rep3,45,2020-10-09,13.61,lu,F,worst,75%,3,0.75
+wt Sanger 2xmut,1,2020-10-13,19.77,lu,wt,wt,0%,1,0
+stab_F_XHi1,32,2020-10-13,19.72,lu,F,shuffle_Hi,50%,X1,0.5
+stab_F_XHi2,33,2020-10-13,20.06,lu,F,shuffle_Hi,50%,X2,0.5
+F_0.25worst_rep1,37,2020-10-13,18.71,lu,F,worst,25%,1,0.25
+F_0.25worst_rep2,38,2020-10-13,20.24,lu,F,worst,25%,2,0.25
+F_0.25worst_rep3,39,2020-10-13,17.48,lu,F,worst,25%,3,0.25
+F_0.5worst_rep2,41,2020-10-13,15.78,lu,F,worst,50%,2,0.5
+F_0.5worst_rep3,42,2020-10-13,15.44,lu,F,worst,50%,3,0.5
+F_0.75worst_rep2,44,2020-10-13,8.99,lu,F,worst,75%,2,0.75
+F_0.75worst_rep3,45,2020-10-13,13.79,lu,F,worst,75%,3,0.75
+wt Sanger 2xmut,1,2020-10-15,22.28,lu,wt,wt,0%,1,0
+stab_H_Hi4,9,2020-10-15,19.83,lu,H,shuffle_Hi,50%,4,0.5
+stab_G_Hi1,17,2020-10-15,10.34,lu,G,shuffle_Hi,50%,1,0.5
+stab_G_Hi4,20,2020-10-15,7.84,lu,G,shuffle_Hi,50%,4,0.5
+G_0.25worst_rep1,47,2020-10-15,19.49,lu,G,worst,25%,1,0.25
+G_0.25worst_rep2,48,2020-10-15,16.03,lu,G,worst,25%,2,0.25
+G_0.25worst_rep3,49,2020-10-15,19.52,lu,G,worst,25%,3,0.25
+G_0.5worst_rep2,51,2020-10-15,13.98,lu,G,worst,50%,2,0.5
+G_0.5worst_rep3,52,2020-10-15,15.83,lu,G,worst,50%,3,0.5
+H_0.75worst_rep1,63,2020-10-15,16.78,lu,H,worst,75%,1,0.75
+H_0.75worst_rep2,64,2020-10-15,21.17,lu,H,worst,75%,2,0.75
+H_0.75worst_rep3,65,2020-10-15,19.15,lu,H,worst,75%,3,0.75
+H_1.0worst_rep1,66,2020-10-15,17.47,lu,H,worst,100%,1,1
+wt Sanger 2xmut,1,2020-10-16,20.65,lu,wt,wt,0%,1,0
+F_0.5worst_rep1,40,2020-10-16,17.69,lu,F,worst,50%,1,0.5
+F_0.75worst_rep1,43,2020-10-16,9.72,lu,F,worst,75%,1,0.75
+F_0.75worst_rep2,44,2020-10-16,10.23,lu,F,worst,75%,2,0.75
+F_1.0worst_rep1,46,2020-10-16,8.15,lu,F,worst,100%,1,1
+G_0.25worst_rep1,47,2020-10-16,20.76,lu,G,worst,25%,1,0.25
+G_0.25worst_rep2,48,2020-10-16,19.2,lu,G,worst,25%,2,0.25
+G_0.5worst_rep1,50,2020-10-16,20.11,lu,G,worst,50%,1,0.5
+G_0.5worst_rep2,51,2020-10-16,14.89,lu,G,worst,50%,2,0.5
+G_0.5worst_rep3,52,2020-10-16,15.7,lu,G,worst,50%,3,0.5
+H_0.75worst_rep1,63,2020-10-16,16.42,lu,H,worst,75%,1,0.75
+H_0.75worst_rep2,64,2020-10-16,20.43,lu,H,worst,75%,2,0.75
+H_0.75worst_rep3,65,2020-10-16,19.96,lu,H,worst,75%,3,0.75
+H_1.0worst_rep1,66,2020-10-16,19.04,lu,H,worst,100%,1,1
+wt Sanger 2xmut,1,2020-10-19,20.25,lu,wt,wt,0%,1,0
+F_1.0worst_rep1,46,2020-10-19,8.55,lu,F,worst,100%,1,1
+G_0.25worst_rep1,47,2020-10-19,16.57,lu,G,worst,25%,1,0.25
+G_0.25worst_rep2,48,2020-10-19,18.67,lu,G,worst,25%,2,0.25
+G_0.25worst_rep3,49,2020-10-19,19.68,lu,G,worst,25%,3,0.25
+G_0.5worst_rep1,50,2020-10-19,19.89,lu,G,worst,50%,1,0.5
+G_0.5worst_rep2,51,2020-10-19,14.55,lu,G,worst,50%,2,0.5
+G_0.5worst_rep3,52,2020-10-19,15.38,lu,G,worst,50%,3,0.5
+H_0.75worst_rep1,63,2020-10-19,16.89,lu,H,worst,75%,1,0.75
+H_0.75worst_rep2,64,2020-10-19,21.1,lu,H,worst,75%,2,0.75
+H_0.75worst_rep3,65,2020-10-19,18.84,lu,H,worst,75%,3,0.75
+H_1.0worst_rep1,66,2020-10-19,18.01,lu,H,worst,100%,1,1
+wt Sanger 2xmut,1,2020-10-29,19.88,lu,wt,wt,0%,1,0
+F_1.0worst_rep1,46,2020-10-29,6.47,lu,F,worst,100%,1,1
+G_0.25worst_rep3,49,2020-10-29,18.48,lu,G,worst,25%,3,0.25
+G_0.5worst_rep1,50,2020-10-29,19.58,lu,G,worst,50%,1,0.5
+G_0.75worst_rep1,53,2020-10-29,11.56,lu,G,worst,75%,1,0.75
+G_0.75worst_rep2,54,2020-10-29,6.19,lu,G,worst,75%,2,0.75
+G_0.75worst_rep3,55,2020-10-29,12.81,lu,G,worst,75%,3,0.75
+G_1.0worst_rep1,56,2020-10-29,17.79,lu,G,worst,100%,1,1
+H_0.25worst_rep2,58,2020-10-29,19.67,lu,H,worst,25%,2,0.25
+H_0.5worst_rep2,61,2020-10-29,19.9,lu,H,worst,50%,2,0.5
+wt Sanger 2xmut,1,2020-10-30,19.59,lu,wt,wt,0%,1,0
+G_0.75worst_rep1,53,2020-10-30,10.91,lu,G,worst,75%,1,0.75
+G_0.75worst_rep2,54,2020-10-30,6.27,lu,G,worst,75%,2,0.75
+G_0.75worst_rep3,55,2020-10-30,11.36,lu,G,worst,75%,3,0.75
+G_1.0worst_rep1,56,2020-10-30,16.79,lu,G,worst,100%,1,1
+H_0.25worst_rep2,58,2020-10-30,21.68,lu,H,worst,25%,2,0.25
+H_0.5worst_rep2,61,2020-10-30,20.66,lu,H,worst,50%,2,0.5
+wt Sanger 2xmut,1,2020-11-03,20.18,lu,wt,wt,0%,1,0
+G_0.75worst_rep1,53,2020-11-03,11.57,lu,G,worst,75%,1,0.75
+G_0.75worst_rep2,54,2020-11-03,6.77,lu,G,worst,75%,2,0.75
+G_0.75worst_rep3,55,2020-11-03,12.03,lu,G,worst,75%,3,0.75
+G_1.0worst_rep1,56,2020-11-03,17.83,lu,G,worst,100%,1,1
+H_0.25worst_rep2,58,2020-11-03,21.64,lu,H,worst,25%,2,0.25
+H_0.5worst_rep2,61,2020-11-03,19.5,lu,H,worst,50%,2,0.5
+wt Sanger 2xmut,1,2020-11-13,20.57,lu,wt,wt,0%,1,0
+H_0.5worst_rep1,60,2020-11-13,16.67,lu,H,worst,50%,1,0.5
+H_0.5worst_rep3,62,2020-11-13,20.39,lu,H,worst,50%,3,0.5
+wt Sanger 2xmut,1,2020-11-16,19.4,lu,wt,wt,0%,1,0
+H_0.5worst_rep1,60,2020-11-16,16.2,lu,H,worst,50%,1,0.5
+H_0.5worst_rep3,62,2020-11-16,19.61,lu,H,worst,50%,3,0.5
+wt Sanger 2xmut,1,2020-11-17,19.86,lu,wt,wt,0%,1,0
+H_0.5worst_rep3,62,2020-11-17,18.97,lu,H,worst,50%,3,0.5
+wt Sanger 2xmut,1,2020-11-18,21.62,lu,wt,wt,0%,1,0
+H_0.5worst_rep1,60,2020-11-18,15.72,lu,H,worst,50%,1,0.5
+wt Sanger 2xmut,1,2020-11-19,19.78,lu,wt,wt,0%,1,0
+wt Sanger 2xmut,1,2020-11-20,19.56,lu,wt,wt,0%,1,0
+wt Sanger 2xmut,1,2020-12-01,19.75,lu,wt,wt,0%,1,0
+wt Sanger 2xmut,1,2020-12-03,19.39,lu,wt,wt,0%,1,0
+wt Sanger 2xmut,1,2020-12-04,18.58,lu,wt,wt,0%,1,0
+wt Sanger 2xmut,1,2021-01-08,18.32,lu,wt,wt,0%,1,0
+stab_G_Lo4,16,2021-01-08,10.41,lu,G,shuffle_Lo,50%,4,0.5
+wt Sanger 2xmut,1,2021-01-11,18.85,lu,wt,wt,0%,1,0
+stab_G_Lo4,16,2021-01-11,12.01,lu,G,shuffle_Lo,50%,4,0.5
+wt Sanger 2xmut,1,2021-01-12,18.01,lu,wt,wt,0%,1,0
+stab_G_Lo4,16,2021-01-12,10.06,lu,G,shuffle_Lo,50%,4,0.5
+wt Sanger 2xmut,1,2021-02-01,18.81,lu,wt,wt,0%,1,0
+H_0.25worst_rep1,57,2021-02-01,12.84,lu,H,worst,25%,1,0.25
+wt Sanger 2xmut,1,2021-02-02,19.29,lu,wt,wt,0%,1,0
+H_0.25worst_rep1,57,2021-02-02,12.17,lu,H,worst,25%,1,0.25
+wt Sanger 2xmut,1,2021-02-04,18.83,lu,wt,wt,0%,1,0
+H_0.25worst_rep1,57,2021-02-04,13.19,lu,H,worst,25%,1,0.25
+H_random_75%_rep2,1,2020-09-24,0,emma,H,random,75%,rep2,0.75
+G_shuffle_50%_rep1,1,2020-10-04,0,emma,G,shuffle,50%,rep1,0.5
+G_shuffle_75%_rep3,1,2020-10-04,0,emma,G,shuffle,75%,rep3,0.75
+G_shuffle_100%_rep3,1,2020-11-03,0,emma,G,shuffle,100%,rep3,1
+G_shuffle-Lo_50%_rep1,1,2020-08-26,0,lu,G,shuffle_Lo,50%,rep1,0.5
+H_worst_25%_rep3,1,2020-10-29,0,lu,H,worst,25%,rep3,0.25
+H_random_50%_rep3,1,2020-09-24,0,emma,H,random,50%,rep3,0.5
+H_random_100%_rep2,1,2020-09-24,0,emma,H,random,100%,rep2,1
+H_worst_25%_rep1,1,2020-10-29,0,lu,H,worst,25%,rep1,0.25
+H_random_max_rep3,1,2020-09-24,0,emma,H,random,max,rep3,1.25
+H_shuffle_50%_rep2,1,2020-10-13,0,emma,H,shuffle,50%,rep2,0.5
+H_random_50%_rep1,1,2020-09-24,0,emma,H,random,50%,rep1,0.5

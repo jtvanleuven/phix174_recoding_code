@@ -1,0 +1,166 @@
+Sample_num,Construct,Date,Passage_num,Original_Fitness,Passage_Fitness,Passage_Time,Mutants,Notes_on_Mutants,Fitness_Lrg_plqs,Fitness_Sm_plqs,sci,ngenes,set,gene
+213,Worst-1 FG-1,2021-09-08,4,5.08,8.3,2,Y?,NA,NA,NA,lu,2,Worst-1,FG
+213,Worst-1 FG-1,2021-09-10,5,5.08,12.67,1.25,Y,many lg plqs on T0 P1; hard to count on T75,NA,NA,lu,2,Worst-1,FG
+213,Worst-1 FG-1,2021-09-14,6,5.08,14.08,1,Y,86 lg on P.2, 154 lg or more on P.3 (very hard to det),NA,NA,lu,2,Worst-1,FG
+213,Worst-1 FG-1,2021-09-15,7,5.08,13.87,0.75,Y,>80 lg plqs on T0; 113 on T45,NA,NA,lu,2,Worst-1,FG
+213,Worst-1 FG-1,2021-09-16,8,5.08,13.24,0.75,NA,NA,NA,NA,lu,2,Worst-1,FG
+216,Worst-1 FH-1,2021-09-08,4,9.27,11.88,1,N,NA,NA,NA,lu,2,Worst-1,FH
+216,Worst-1 FH-1,2021-09-10,5,9.27,11.35,0.83,Y,lg plqs on T50,NA,NA,lu,2,Worst-1,FH
+216,Worst-1 FH-1,2021-09-14,6,9.27,12.45,1,Y,lg on P.2? 10 lg out of 31 on P.3 -6 plate,NA,NA,lu,2,Worst-1,FH
+216,Worst-1 FH-1,2021-09-15,7,9.27,14.67,1,Y,49 lg plqs on T0; 102 on T60,NA,NA,lu,2,Worst-1,FH
+236,Worst-1 FGH-2,2021-09-08,4,3.99,6.27,2.5,N,NA,NA,NA,lu,3,Worst-1,FGH
+236,Worst-1 FGH-2,2021-09-10,5,3.99,8.19,1.67,N,NA,NA,NA,lu,3,Worst-1,FGH
+236,Worst-1 FGH-2,2021-09-14,6,3.99,8.94,1.25,Y,20 lg on P.2; 64 lg on P.3,NA,NA,lu,3,Worst-1,FGH
+236,Worst-1 FGH-2,2021-09-15,7,3.99,10.8,1.25,Y,NA,NA,NA,lu,3,Worst-1,FGH
+236,Worst-1 FGH-2,2021-09-16,8,3.99,11.25,1,Y,81 lg plqs on T0; 77 on T60,NA,NA,lu,3,Worst-1,FGH
+233,Worst-1 GH-1,2021-09-21,4,6.14,7.66,1.67,N,ck size on this first passage,NA,NA,lu,2,Worst-1,GH
+233,Worst-1 GH-1,2021-09-22,5,6.14,11.34,1.25,Y,P1 T0 25 lg plqs; 86? on P2 T100,NA,NA,lu,2,Worst-1,GH
+233,Worst-1 GH-1,2021-09-23,6,6.14,8.88,1.25,Y,T0 P2 55 lg plqs; T75 P3 189 lg,NA,NA,lu,2,Worst-1,GH
+233,Worst-1 GH-1,2021-10-11,7,6.14,9.86,1,Y,count lg - difficult!,NA,NA,lu,2,Worst-1,GH
+233,Worst-1 GH-1,2021-10-13,8,6.14,12.32,1,Y,T0 P4 40 lg?; T60 P5 48 lg - difficult to ascertain lg,NA,NA,lu,2,Worst-1,GH
+214,Worst-2 FG-1,2021-09-21,4,4.22,6.42,2.5,N,NA,NA,NA,lu,2,Worst-2,FG
+214,Worst-2 FG-1,2021-09-22,5,4.22,9.45,1.5,N,NA,NA,NA,lu,2,Worst-2,FG
+214,Worst-2 FG-1,2021-09-23,6,4.22,7.21,2.5,Y,T150 P3 5 lg plqs,NA,NA,lu,2,Worst-2,FG
+214,Worst-2 FG-1,2021-10-11,7,4.22,8.37,2.5,Y,P3 4 lg; P4 lots of lg ~175,NA,NA,lu,2,Worst-2,FG
+217,Worst-2 FH-1,2021-09-08,4,7.93,10.02,1.25,N,NA,NA,NA,lu,2,Worst-2,FH
+217,Worst-2 FH-1,2021-09-10,5,7.93,9.71,1,N,NA,NA,NA,lu,2,Worst-2,FH
+217,Worst-2 FH-1,2021-09-14,6,7.93,9.98,1.25,N,NA,NA,NA,lu,2,Worst-2,FH
+217,Worst-2 FH-1,2021-09-15,7,7.93,11.75,1,N,NA,NA,NA,lu,2,Worst-2,FH
+217,Worst-2 FH-1,2021-09-16,8,7.93,10.29,1,Y?,T0 P4 1 lg?,NA,NA,lu,2,Worst-2,FH
+234,Worst-2 GH-1,2021-09-08,4,8.2899999999999991,9.67,1.25,N,NA,NA,NA,lu,2,Worst-2,GH
+234,Worst-2 GH-1,2021-09-10,5,8.2899999999999991,10.14,1,N,NA,NA,NA,lu,2,Worst-2,GH
+234,Worst-2 GH-1,2021-09-14,6,8.2899999999999991,13.72,1.25,Y,T75 P3 2 lg plqs,NA,NA,lu,2,Worst-2,GH
+234,Worst-2 GH-1,2021-09-15,7,8.2899999999999991,12.65,1,Y,P3 2 lg; P4 9 lg plqs,NA,NA,lu,2,Worst-2,GH
+234,Worst-2 GH-1,2021-09-16,8,8.2899999999999991,12.21,1,Y,T0 P4 6 lg plqs; T60 P5 40 lg plqs,NA,NA,lu,2,Worst-2,GH
+201,Rand-1 FG-1,2021-08-25,4,4.47,NA,3,Y,5 large plqs on 5e-5 T40 plate,NA,NA,emma,2,Rand-1,FG
+201,Rand-1 FG-1,2021-08-26,4,4.47,6.86,3,N,NA,NA,NA,emma,2,Rand-1,FG
+201.1,Rand-1 FG-1,2021-08-27,5,4.47,5.46,1.5,Y?,possibly some more defined, similar sized plqs on T40; can't count,NA,NA,emma,2,Rand-1,FG
+201.2,Rand-1 FG-1,2021-09-08,6,4.47,7.08,1.75,Y,1 large plq on 1e-5, 3 on 5e-6,NA,7.05905338465264,emma,2,Rand-1,FG
+201.3,Rand-1 FG-1,2021-09-09,7,4.47,7.27,1.5,Y,lrg plqs on both T0 and T40,9.20468231425725,7.05718066104472,emma,2,Rand-1,FG
+201.4,Rand-1 FG-1,2021-09-13,8,4.47,9.75,1.25,Y,lrg plqs on both T0 and T40,10.9816374598611,6.95966080680354,emma,2,Rand-1,FG
+210,Shuf-1 FH-1,2021-09-15,4,15.32,NA,0.67,N,NA,NA,NA,emma,2,Shuf-1,FH
+210 (replate),Shuf-1 FH-1,2021-09-15,4,15.32,13.92,0.67,N,NA,NA,NA,emma,2,Shuf-1,FH
+210.1,Shuf-1 FH-1,2021-09-17,5,15.32,14.06,0.75,N,NA,NA,NA,emma,2,Shuf-1,FH
+210.2,Shuf-1 FH-1,2021-09-20,6,15.32,14.11,0.67,Y,lrger plqs on T0 & T40; hazy border,17.6115098637543,13.9917801986393,emma,2,Shuf-1,FH
+210.3,Shuf-1 FH-1,2021-09-22,7,15.32,15.98,0.67,Y,lrger plqs on T0 & T40; hazy border,21.052012421492,15.2561540135697,emma,2,Shuf-1,FH
+210.4,Shuf-1 FH-1,2021-09-23,8,15.32,19.16,0.67,Y,larger plqs on T0 & T40; hazy border,20.4735066395872,17.4005309842833,emma,2,Shuf-1,FH
+229,Shuf-1 GH-1,2021-09-16,4,9.99,8.77,1.25,N,NA,NA,NA,emma,2,Shuf-1,GH
+229.1,Shuf-1 GH-1,2021-09-17,5,9.99,9.47,1.25,N,NA,NA,NA,emma,2,Shuf-1,GH
+229.2(replate),Shuf-1 GH-1,2021-09-20,6,9.99,9.65,1,N,NA,NA,NA,emma,2,Shuf-1,GH
+229.3,Shuf-1 GH-1,2021-09-22,7,9.99,10.37,1,N,NA,NA,NA,emma,2,Shuf-1,GH
+229.4,Shuf-1 GH-1,2021-09-23,8,9.99,10.42,1,N,NA,NA,NA,emma,2,Shuf-1,GH
+211,Shuf-2 FH-1,2021-09-17,4,16.65,14.31,0.67,N,NA,NA,NA,emma,2,Shuf-2,FH
+211.1,Shuf-2 FH-1,2021-09-20,5,16.65,15.18,0.67,N,NA,NA,NA,emma,2,Shuf-2,FH
+211.2,Shuf-2 FH-1,2021-09-22,6,16.65,16.03,0.67,N,NA,NA,NA,emma,2,Shuf-2,FH
+211.3,Shuf-2 FH-1,2021-09-27,7,16.65,16.57,0.67,N,NA,NA,NA,emma,2,Shuf-2,FH
+211.4,Shuf-2 FH-1,2021-09-29,8,16.65,14.17,0.67,N,NA,NA,NA,emma,2,Shuf-2,FH
+230,Shuf-2 GH-1,2021-09-22,4,8.07,8.68,2,N,NA,NA,NA,emma,2,Shuf-2,GH
+230.1,Shuf-2 GH-1,2021-09-27,5,8.07,9.77,1.25,Y,large plqs on T40,NA,9.73887944493723,emma,2,Shuf-2,GH
+230.2,Shuf-2 GH-1,2021-09-29,6,8.07,8.23,1,Y,larger plqs on T0 & T40,11.7550341109829,7.88419036293989,emma,2,Shuf-2,GH
+230.3,Shuf-2 GH-1,2021-09-30,7,8.07,11.37,1.25,Y,larger plaqs on T0 & T40,12.8292593465856,8.93963625825337,emma,2,Shuf-2,GH
+230.4,Shuf-2 GH-1,2021-10-06,8,8.07,13.69,1,Y,lrg on both T0 and T40; hard to distinguish,13.7916079997787,13.2004492330937,emma,2,Shuf-2,GH
+208,Shuf-2 FG-1,2021-09-22,4,4.5,NA,3,Y,NA,NA,NA,emma,2,Shuf-2,FG
+208(replate),Shuf-2 FG-1,2021-09-27,4,4.5,7,3,Y,almomst all large plaqs on T40,NA,5.62615241095487,emma,2,Shuf-2,FG
+208.1,Shuf-2 FG-1,2021-09-29,5,4.5,NA,1.5,Y,lrg plqs on T0 & T40,NA,NA,emma,2,Shuf-2,FG
+208.1 (replate),Shuf-2 FG-1,2021-09-30,5,4.5,12.72,1.5,Y,sm & lrg plqs on T0, all lrg T40,12.938221943677,NA,emma,2,Shuf-2,FG
+208.2,Shuf-2 FG-1,2021-10-06,6,4.5,19.75,0.75,Y,all lrg on T0 & T40,19.7526944770132,NA,emma,2,Shuf-2,FG
+208.3,Shuf-2 FG-1,2021-10-07,7,4.5,17.02,0.67,Y,sm & lrg plqs on T0 & T40,19.9991384582783,19.2007476848133,emma,2,Shuf-2,FG
+208.4,Shuf-2 FG-1,2021-10-11,8,4.5,20.54,0.67,Y,small & lrg T0 & T40,20.7310976588489,19.4160245221592,emma,2,Shuf-2,FG
+232,Shuf-2 FGH-2,2021-09-22,4,2.8,3.88,4.75,Y,lrg plqs on T40,NA,2.13374586606454,emma,3,Shuf-2,FGH
+232.1,Shuf-2 FGH-2,2021-09-29,5,2.8,5.08,2.5,Y,larger plqs on T0 & T40,5.57842725560772,5.02852494231108,emma,3,Shuf-2,FGH
+232.2,Shuf-2 FGH-2,2021-09-30,6,2.8,6.41,2,Y,larger plaqs on T0 & T40,6.94459680880119,6.16700842333466,emma,3,Shuf-2,FGH
+232.3,Shuf-2 FGH-2,2021-10-06,7,2.8,NA,1.5,Y,sm, med, lrg plaques T0; T40 plqs overgrew,NA,NA,emma,3,Shuf-2,FGH
+232.3 (replate),Shuf-2 FGH-2,2021-10-07,7,2.8,10.2,1.5,Y,sm & med on T0; med & lrg on T40,NA,NA,emma,3,Shuf-2,FGH
+232.4,Shuf-2 FGH-2,2021-10-11,8,2.8,NA,1,Y,NA,NA,NA,emma,3,Shuf-2,FGH
+232.4 (replate),Shuf-2 FGH-2,2021-10-13,8,2.8,15.74,1,Y,T0 & T40 all large,15.7459619456496,NA,emma,3,Shuf-2,FGH
+R225,Rand-1 GH-1,2021-09-27,4,8.74,10.09,1.5,N,NA,NA,NA,emma,2,Rand-1,GH
+R225.1,Rand-1 GH-1,2021-09-29,5,8.74,NA,1,N,NA,NA,NA,emma,2,Rand-1,GH
+R225.1 (replate),Rand-1 GH-1,2021-09-30,5,8.74,7.45,1,N,NA,NA,NA,emma,2,Rand-1,GH
+R225.2,Rand-1 GH-1,2021-10-06,6,8.74,7.57,0.75,N,NA,NA,NA,emma,2,Rand-1,GH
+R225.3,Rand-1 GH-1,2021-10-07,7,8.74,7.87,1.25,Y,larger plqs on T40,NA,7.69120001105244,emma,2,Rand-1,GH
+R225.4,Rand-1 GH-1,2021-10-11,8,8.74,NA,1.25,Y,more defined plqs on T40,NA,NA,emma,2,Rand-1,GH
+R225.4(replate),Rand-1 GH-1,2021-10-13,8,8.74,11.13,1.25,Y,T0=sm & med; T40=sm, med, large plaques,NA,NA,emma,2,Rand-1,GH
+202,Rand-2 FG-1,2021-09-27,4,6.93,10.55,1.5,Y,lrg plaques on T40,NA,8.80817041630463,emma,2,Rand-2,FG
+202.1,Rand-2 FG-1,2021-09-29,5,6.93,NA,1,Y,lrg plqs on T0 & T40,NA,NA,emma,2,Rand-2,FG
+202.1 (replate),Rand-2 FG-1,2021-09-30,5,6.93,17.92,1,Y,large plaques on T0 & T40,18.0245162539092,16.9318309013625,emma,2,Rand-2,FG
+202.2,Rand-2 FG-1,2021-10-06,6,6.93,20.69,0.67,Y,all lrg plaqs on T0 & T40,20.6898066325908,NA,emma,2,Rand-2,FG
+202.3,Rand-2 FG-1,2021-10-07,7,6.93,16.34,0.67,Y,sm & lrg plqs on T0 & T40,19.1933880426435,19.9801079139304,emma,2,Rand-2,FG
+202.4,Rand-2 FG-1,2021-10-11,8,6.93,19.58,0.67,Y,all lrg plaqs on T0 & T40,19.5836339352225,NA,emma,2,Rand-2,FG
+R205,Rand-2 FH-1,2021-09-30,4,7.34,8.38,1.75,N,NA,NA,NA,emma,2,Rand-2,FH
+R205.1,Rand-2 FH-1,2021-10-06,5,7.34,8.37,1.25,Y,several lrg plaques T40,NA,8.35479769082954,emma,2,Rand-2,FH
+R205.2,Rand-2 FH-1,2021-10-07,6,7.34,NA,1.25,Y,1 lrg plq T0; T40 overgrew; replate,NA,NA,emma,2,Rand-2,FH
+R205.2(replate),Rand-2 FH-1,2021-10-08,6,7.34,15.06,1.25,Y,2 lrg plqs T0; T40 mostly large plaques,19.8282782627785,12.5023310169712,emma,2,Rand-2,FH
+R205.3,Rand-2 FH-1,2021-10-11,7,7.34,21.09,0.67,Y,small & lrg T0; all larger T40,21.1312604545957,NA,emma,2,Rand-2,FH
+205.4,Rand-2 FH-1,2021-10-13,8,7.34,19.69,0.67,Y,T0 & T40 all large,19.6926410936209,NA,emma,2,Rand-2,FH
+R226,Rand-2 GH-1,2021-10-06,4,5.61,6,2.25,N,NA,NA,NA,emma,2,Rand-2,GH
+R226.1,Rand-2 GH-1,2021-10-07,5,5.61,6.5,1.75,N,NA,NA,NA,emma,2,Rand-2,GH
+R226.2,Rand-2 GH-1,2021-10-11,6,5.61,NA,1.5,NA,NA,NA,NA,emma,2,Rand-2,GH
+R226.2(replate),Rand-2 GH-1,2021-10-13,6,5.61,11.98,1.5,Y,T0=small, T40=large,NA,NA,emma,2,Rand-2,GH
+R226.2 (replate),Rand-2 GH-1,2021-10-14,6,5.61,11.65,1.5,Y,T0=small, T40=large,NA,NA,emma,2,Rand-2,GH
+R226.3,Rand-2 GH-1,2021-10-14,7,5.61,18.56,0.75,Y,T0, T40 are all large,18.5481987041137,NA,emma,2,Rand-2,GH
+R226.4,Rand-2 GH-2,2021-10-15,8,5.61,19.48,0.67,Y,T0, T40 are all large,19.4826079351447,NA,emma,2,Rand-2,GH
+R207,Shuf-1 FG-1,2021-10-07,4,4.99,NA,2.75,NA,T40 overgrew,NA,NA,emma,2,Shuf-1,FG
+R207(replate),Shuf-1 FG-1,2021-10-08,4,4.99,NA,2.75,NA,T40 overgrew,NA,NA,emma,2,Shuf-1,FG
+R207(replate),Shuf-1 FG-1,2021-10-11,4,4.99,8.56,2.75,Y,all T40 larger,NA,NA,emma,2,Shuf-1,FG
+R207.1,Shuf-1 FG-1,2021-10-13,5,4.99,NA,1.5,Y,innoculated with too much,NA,NA,emma,2,Shuf-1,FG
+R207.1,Shuf-1 FG-1,2021-10-14,5,4.99,NA,1.5,Y,T0 & T40 all large,NA,NA,emma,2,Shuf-1,FG
+R207.1 (replate),Shuf-1 FG-1,2021-10-15,5,4.99,12.33,1.5,Y,T0 & T40 all large,12.3269875207764,NA,emma,2,Shuf-1,FG
+R207.2,Shuf-1 FG-1,2021-10-18,6,4.99,20.92,0.75,Y,T0 & T40 larger,20.9182139648506,NA,emma,2,Shuf-1,FG
+R207.3,Shuf-1 FG-1,2021-10-20,7,4.99,20.48,0.67,Y,T0 & T40 large,20.4869931243121,NA,emma,2,Shuf-1,FG
+R231,Shuf-1 FGH-1,2021-10-07,4,3.66,4.12,3.75,Y,some lrger plaques on tmtc T40 plates,NA,NA,emma,3,Shuf-1,FGH
+231.1,Shuf-1 FGH-1,2021-10-11,5,3.66,NA,2.5,Y,NA,NA,NA,emma,3,Shuf-1,FGH
+R231.1 (replate),Shuf-1 FGH-1,2021-10-13,5,3.66,NA,2.5,Y,T0=small, T40=large,NA,NA,emma,3,Shuf-1,FGH
+R231.1 (replate),Shuf-1 FGH-1,2021-10-14,5,3.66,8.5,2.5,Y,all T0 small; all T40 large,NA,NA,emma,3,Shuf-1,FGH
+R231.2,Shuf-1 FGH-1,2021-10-15,6,3.66,NA,1.25,Y,T0 & T40 large,NA,NA,emma,3,Shuf-1,FGH
+R231.2 (replate),Shuf-1 FGH-1,2021-10-18,6,3.66,15.63,1.25,Y,T0 & T40 large,15.6343650848812,NA,emma,3,Shuf-1,FGH
+R231.3,Shuf-1 FGH-1,2021-10-20,7,3.66,20.34,0.67,Y,T0 & T40 large,20.3420101325198,NA,emma,3,Shuf-1,FGH
+204,Rand-1 FH-1,2021-09-15,4,8.27,9.11,2,N,NA,NA,NA,emma,2,Rand-1,FH
+R204-2,Rand-1 FH-1,2021-10-11,4,8.27,9.43,1.5,N,NA,NA,NA,emma,2,Rand-1,FH
+R204-2.1,Rand-1 FH-1,2021-10-13,5,8.27,7.33,1,N,NA,NA,NA,emma,2,Rand-1,FH
+R204-2.2,Rand-1 FH-1,2021-10-14,6,8.27,8.76,1.25,N,NA,NA,NA,emma,2,Rand-1,FH
+R204-2.3,Rand-1 FH-1,2021-10-15,7,8.27,8.7,1.25,N,NA,NA,NA,emma,2,Rand-1,FH
+R204-2.4,Rand-1 FH-1,2021-10-18,8,8.27,13,1.25,Y,mostly larger plaqs on T40,NA,10.7009992433209,emma,2,Rand-1,FH
+206,Rand-3 FH-1,2021-10-18,4,10.44,10.82,1,Y,some larger plqs on T40,NA,10.7800808161385,emma,2,Rand-3,FH
+206.1,Rand-3 FH-1,2021-10-20,5,10.44,15.82,1,y,some lrg T0; all lrg T40,20.5028820085335,NA,emma,2,Rand-3,FH
+R223,Rand-3 GH-1,2021-10-20,4,9.22,9.05,1,Y,a few lrg on T40,NA,9.02319244582649,emma,2,Rand-3,GH
+R203,Rand-3 FG-1,2021-10-20,4,NA,7.33,1.75,N,NA,NA,NA,emma,2,Rand-3,FG
+203.1,Rand-3 FG-1,2021-06-15,4,NA,5.58718713858249,0.667,No,after the third passage, all plaques look the same suggesting that it is possible the mutant plaques overcame the original plaques,N/A,NA,jacob,2,Rand-3,FG
+203.2,Rand-3 FG-1,2021-06-17,5,NA,6.84073314081421,2.25,Yes,NA,Info in notes,NA,jacob,2,Rand-3,FG
+203.3,Rand-3 FG-1,2021-06-29,6,NA,9.81883948751734,2,Yes,Large plaque fitness for 203.3-203.5 is unknown because after 203.3, large plaques where indistinguishable from small plaques. It also could be possible that the plate had nearly 100% mutant plaques.,8.7899999999999991,NA,jacob,2,Rand-3,FG
+203.4,Rand-3 FG-1,2021-07-02,7,NA,9.96514564151125,1.5,Yes,NA,Info in notes,NA,jacob,2,Rand-3,FG
+203.5,Rand-3 FG-1,2021-07-07,8,NA,9.31928475812217,1,Yes,NA,Info in notes,NA,jacob,2,Rand-3,FG
+206.1,Rand-3 FH-1,2021-06-17,4,NA,9.39874369193819,1,No,NA,N/A,NA,jacob,2,Rand-3,FH
+206.2,Rand-3 FH-1,2021-06-29,5,NA,9.70332684145981,1,No,NA,N/A,NA,jacob,2,Rand-3,FH
+206.3,Rand-3 FH-1,2021-07-02,6,NA,10.3980958719718,1,No,NA,N/A,NA,jacob,2,Rand-3,FH
+206.4,Rand-3 FH-1,2021-07-06,7,NA,10.6978489458808,1,No,NA,N/A,NA,jacob,2,Rand-3,FH
+206.5,Rand-3 FH-1,2021-07-13,8,NA,8.27706237750732,1,No,no mutants after 5 passages,N/A,NA,jacob,2,Rand-3,FH
+223.1,Rand-3 GH-1,2021-07-07,4,NA,8.66745908907815,1,No,NA,N/A,NA,jacob,2,Rand-3,GH
+223.2,Rand-3 GH-1,2021-07-08,5,NA,9.44974184441156,1.25,No,NA,N/A,NA,jacob,2,Rand-3,GH
+223.3,Rand-3 GH-1,2021-07-09,6,NA,9.95,1,No,NA,N/A,NA,jacob,2,Rand-3,GH
+223.4,Rand-3 GH-1,2021-07-12,7,NA,9.52649923913657,1,Yes,single mutant plaque on 5E-6 plate picuted here,,N/A,NA,jacob,2,Rand-3,GH
+223.5,Rand-3 GH-1,2021-07-13,8,NA,8.75711216727798,1,No,plaque from previous passage has been sampled and ran through pcr (7/26),N/A,NA,jacob,2,Rand-3,GH
+224.1,Rand-3 FGH-1,2021-07-12,4,NA,2.57492689576887,6,No,NA,N/A,NA,jacob,3,Rand-3,FGH
+224.2,Rand-3 FGH-1,2021-07-14,5,NA,4.10098868737211,4,Yes,mutants on T40 of 2nd passage,N/A,NA,jacob,3,Rand-3,FGH
+224.3,Rand-3 FGH-1,2021-07-15,6,NA,6.43158370086311,2.25,Yes,mutants are constantly increasing in frequency,7.07,NA,jacob,3,Rand-3,FGH
+224.4,Rand-3 FGH-1,2021-07-19,7,NA,4.33439557245522,1.5,Yes,NA,5.07,NA,jacob,3,Rand-3,FGH
+224.5,Rand-3 FGH-1,2021-07-20,8,NA,5.4933614327885,2.25,Yes,still mutants present by 5th passage,6.44,NA,jacob,3,Rand-3,FGH
+209,Shuf-3 FG-1,2021-06-17,4,NA,5.47233504961805,2.5,NA,NA,NA,NA,tessa,2,Shuf-3,FG
+209.1,Shuf-3 FG-1,2021-06-18,5,NA,7.06695034187221,1.75,NA,NA,NA,NA,tessa,2,Shuf-3,FG
+209.2,Shuf-3 FG-1,2021-06-23,6,NA,8.01505859223967,1.25,NA,NA,NA,NA,tessa,2,Shuf-3,FG
+209.3,Shuf-3 FG-1,2021-06-24,7,NA,9.09739564702583,1.25,NA,NA,NA,NA,tessa,2,Shuf-3,FG
+209.4,Shuf-3 FG-1,2021-06-25,8,NA,12.5466380129297,1.25,NA,NA,NA,NA,tessa,2,Shuf-3,FG
+212,Shuf-3 FH-1,2021-06-10,4,NA,7.96818164003525,0.66,NA,NA,NA,NA,tessa,2,Shuf-3,FH
+212.1,Shuf-3 FH-1,2021-07-01,5,NA,6.10133770149628,1.75,NA,NA,NA,NA,tessa,2,Shuf-3,FH
+212.2,Shuf-3 FH-1,2021-07-09,6,NA,7.34978531581044,1.5,NA,NA,NA,NA,tessa,2,Shuf-3,FH
+212.3,Shuf-3 FH-1,2021-07-12,7,NA,7.95941932959966,1.25,NA,NA,NA,NA,tessa,2,Shuf-3,FH
+212.4,Shuf-3 FH-1,2021-07-15,8,NA,13.4085085978754,1.25,NA,NA,NA,NA,tessa,2,Shuf-3,FH
+221,Shuf-3 GH-1,2021-06-23,4,NA,7.16585935897481,1,NA,NA,NA,NA,tessa,2,Shuf-3,GH
+221.1,Shuf-3 GH-1,2021-06-24,5,NA,8.02874986138948,1.5,NA,recounted T40 8/6/2021,NA,NA,tessa,2,Shuf-3,GH
+221.2,Shuf-3 GH-1,2021-07-09,6,NA,8.17960345852632,1.5,NA,NA,NA,NA,tessa,2,Shuf-3,GH
+221.3,Shuf-3 GH-1,2021-07-14,7,NA,15.150027956264,0.75,NA,NA,NA,NA,tessa,2,Shuf-3,GH
+221.4,Shuf-3 GH-1,2021-07-15,8,NA,9.21364135745131,2,NA,NA,NA,NA,tessa,2,Shuf-3,GH
+222,Shuf-3 FGH,2021-07-12,4,NA,6.10927633475472,2.45,NA,NA,NA,NA,tessa,3,Shuf-3,FGH
+222.1,Shuf-3 FGH,2021-07-14,5,NA,7.01888613335341,2.27,NA,NA,NA,NA,tessa,3,Shuf-3,FGH
+222.2,Shuf-3 FGH,2021-07-15,6,NA,8.53883052519626,1.31,NA,NA,NA,NA,tessa,3,Shuf-3,FGH
+222.3,Shuf-3 FGH,2021-07-19,7,NA,12.8588496627323,1.3,NA,NA,NA,NA,tessa,3,Shuf-3,FGH
+222.4,Shuf-3 FGH,2021-07-27,8,NA,19.1417542634589,0.66,NA,NA,NA,NA,tessa,3,Shuf-3,FGH

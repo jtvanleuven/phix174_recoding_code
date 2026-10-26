@@ -1,0 +1,28 @@
+Package: phix174recoding
+Title: phiX174 Codon-Recoding Fitness Analysis
+Version: 1.0.0
+Authors@R: person("J", "van Leuven", role = c("aut", "cre"),
+                  email = "placeholder@example.com")
+Description: Analysis code and data for the codon-recoding (deoptimization)
+    study of bacteriophage phiX174. Includes the full R pipeline for PacBio
+    counts, flask assay compilation, divergence calculation, plotting, and
+    two statistical analyses: the primary mixed model (lme4) and the
+    relative-fitness (same-day WT control) analyses.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Depends: R (>= 4.3)
+Imports:
+    lme4,
+    stringr,
+    ggplot2,
+    Biostrings,
+    readxl,
+    cowplot,
+    reshape2,
+    seqinr,
+    sangerseqR,
+    stats
+Suggests:
+    knitr
+RoxygenNote: 7.3.1

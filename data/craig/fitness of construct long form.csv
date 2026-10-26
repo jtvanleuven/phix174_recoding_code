@@ -1,0 +1,128 @@
+﻿Treatment,Gene,Name,Level,Rep,Fitness,Effect,Set
+Random,F,F random 100% rep 2,100,2,6.12,14.23082192,
+Random,F,F random 75% rep 3,75,3,10.17,10.18082192,
+Random,F,F random max rep 3,max,3,10.82,9.53082192,
+Random,F,F random max rep 2,max,2,13.06,7.29082192,
+Random,F,F random 100% rep 1,100,1,14.7,5.65082192,1
+Random,F,F random 75% rep 1,75,1,15.26,5.09082192,3
+Random,F,F random max rep 1,max,1,15.83,4.52082192,2
+Random,F,F random 100% rep 3,100,3,15.98,4.37082192,
+Random,F,F random 75% rep 2,75,2,18.2,2.15082192,
+Random,F,F random 50% rep 2,50,2,19.05,1.30082192,
+Random,F,F random 50% rep 1,50,1,19.95,0.40082192,
+Random,F,F random 50% rep 3,50,3,19.96,0.39082192,
+Random,F,F random 25% rep 3,25,3,20.24,0.11082192,
+Random,F,F random 25% rep 2,25,2,20.41,-0.05917808,
+Random,F,F random 25% rep 1,25,1,20.62,-0.26917808,
+Random,G,G random 100% rep 2,100,2,1.74,18.61082192,
+Random,G,G random 50% rep 2,50,2,7.45,12.90082192,
+Random,G,G random max rep 1,max,1,11.24,9.11082192,
+Random,G,G random max rep 3,max,3,12.02,8.33082192,
+Random,G,G random 75% rep 2,75,2,12.37,7.98082192,
+Random,G,G random 100% rep 3,100,3,12.77,7.58082192,
+Random,G,G random 75% rep 1,75,1,14.39,5.96082192,3
+Random,G,G random 100% rep 1,100,1,15.71,4.64082192,1
+Random,G,G random max rep 2,max,2,16.92,3.43082192,2
+Random,G,G random 75% rep 3,75,3,17.84,2.51082192,
+Random,G,G random 50% rep 3,50,3,18.44,1.91082192,
+Random,G,G random 25% rep 3,25,3,18.46,1.89082192,
+Random,G,G random 50% rep 1,50,1,19.69,0.66082192,
+Random,G,G random 25% rep 1,25,1,20.47,-0.11917808,
+Random,G,G random 25% rep 2,25,2,20.92,-0.56917808,
+Random,H,H random max rep 1,max,1,15.84,4.51082192,
+Random,H,H random max rep 2,max,2,16.14,4.21082192,2
+Random,H,H random 100% rep 3,100,3,16.22,4.13082192,
+Random,H,H random 100% rep 1,100,1,17.03,3.32082192,1
+Random,H,H random 75% rep 3,75,3,18.11,2.24082192,3
+Random,H,H random 75% rep 1,75,1,19.93,0.42082192,
+Random,H,H random 50% rep 2,50,2,20.39,-0.03917808,
+Random,H,H random 25% rep 3,25,3,20.67,-0.31917808,
+Random,H,H random 25% rep 2,25,2,21.04,-0.68917808,
+Random,H,H random 25% rep 1,25,1,21.38,-1.02917808,
+Shuffle,F,F shuffle 100% rep 1,100,1,13.98,6.37082192,
+Shuffle,F,F shuffle 100% rep 3,100,3,14.14,6.21082192,3
+Shuffle,F,F shuffle 75% rep 2,75,2,15.22,5.13082192,
+Shuffle,F,F shuffle 100% rep 2,100,2,16.3,4.05082192,1
+Shuffle,F,F shuffle 75% rep 1,75,1,17.86,2.49082192,2
+Stability,F,stab_F_Hi2,Hi,2,18.13,2.22082192,
+Shuffle,F,F_0.5shuf_rep2,50,2,18.3,2.05082192,
+Stability,F,stab_F_XHi1,Xhi,1,18.4,1.95082192,
+Stability,F,stab_F_Lo4,Lo,4,18.56,1.79082192,
+Stability,F,stab_F_Lo1,Lo,1,18.67,1.68082192,
+Shuffle,F,F_0.5shuf_rep3,50,3,19.2,1.15082192,
+Stability,F,stab_F_Lo2,Lo,2,19.28,1.07082192,
+Stability,F,stab_F_Hi1,Hi,1,19.32,1.03082192,
+Stability,F,stab_F_Hi4,Hi,4,19.36,0.99082192,
+Stability,F,stab_F_Lo3,Lo,3,19.47,0.88082192,
+Shuffle,F,F shuffle 25% rep 2,25,2,19.5,0.85082192,
+Shuffle,F,F shuffle 75% rep 3,75,3,19.68,0.67082192,
+Stability,F,stab_F_Hi3,Hi,3,19.69,0.66082192,
+Shuffle,F,F_0.5shuf_rep1,50,1,20.17,0.18082192,
+Shuffle,F,F shuffle 25% rep 3,25,3,20.63,-0.27917808,
+Stability,F,stab_F_XHi2,XHi,2,20.72,-0.36917808,
+Shuffle,F,F shuffle 25% rep 1,25,1,21.26,-0.90917808,
+Shuffle,G,G shuffle 100% rep 2,100,2,1.14,19.21082192,
+Shuffle,G,G shuffle 75% rep 2,75,2,5.6,14.75082192,
+Stability,G,stab_G_Hi4,Hi,4,7.17,13.18082192,
+Shuffle,G,G shuffle 75% rep 1,75,1,9.73,10.62082192,2
+Stability,G,stab_G_Lo4,Lo,4,10.83,9.52082192,
+Stability,G,stab_G_Hi1,Hi,1,11.1,9.25082192,
+Shuffle,G,G shuffle 100% rep 1,100,1,11.85,8.50082192,1
+Shuffle,G,G_0.5shuf_rep2,50,2,15.87,4.48082192,3
+Shuffle,G,G shuffle 25% rep 3,25,3,17.05,3.30082192,
+Stability,G,stab_G_Lo3,Lo,3,18.15,2.20082192,
+Stability,G,stab_G_Hi3,Hi,3,18.83,1.52082192,
+Stability,G,stab_G_Hi2,Hi,2,19.01,1.34082192,
+Stability,G,stab_G_Lo2,Lo,2,19.6,0.75082192,
+Shuffle,G,G shuffle 25% rep 2,25,2,19.8,0.55082192,
+Shuffle,G,G_0.5shuf_rep3,50,3,20.16,0.19082192,
+Shuffle,G,G shuffle 25% rep 1,25,1,20.64,-0.28917808,
+Shuffle,H,H shuffle 100% rep 3,100,3,17.73,2.62082192,3
+Shuffle,H,H shuffle 100% rep 1,100,1,19.89,0.46082192,1
+Shuffle,H,H shuffle 25% rep 3,25,3,19.91,0.44082192,
+Shuffle,H,H shuffle 75% rep 3,75,3,20.03,0.32082192,2
+Shuffle,H,H shuffle 100% rep 2,100,2,20.2,0.15082192,
+Shuffle,H,H shuffle 75% rep 2,75,2,20.3,0.05082192,
+Shuffle,H,H shuffle 25% rep 2,25,2,20.64,-0.28917808,
+Shuffle,H,H shuffle 25% rep 1,25,1,20.81,-0.45917808,
+Stability,H,stab_H_Hi4,Hi,4,20.89,-0.53917808,
+Shuffle,H,H_0.5 shuf_rep1,50,1,20.91,-0.55917808,
+Shuffle,H,H shuffle 75% rep 1,75,1,21.02,-0.66917808,
+Stability,H,stab_H_Hi2,Hi,2,21.17,-0.81917808,
+Stability,H,stab_H_Lo3,Lo,3,21.75,-1.39917808,
+Stability,H,stab_H_Lo1,Lo,1,21.81,-1.45917808,
+Stability,H,stab_H_Hi1,Hi,1,21.92,-1.56917808,
+Shuffle,H,H_0.5 shuf_rep3,50,3,21.95,-1.59917808,
+Stability,H,stab_H_Lo2,Lo,2,21.96,-1.60917808,
+Stability,H,stab_H_Hi3,Hi,3,22.03,-1.67917808,
+Stability,H,stab_H_Lo4,Lo,4,22.12,-1.76917808,
+Worst,F,F_1.0worst_rep1,100,1,7.72,12.63082192,
+Worst,F,F_0.75worst_rep2,75,2,9.97,10.38082192,
+Worst,F,F_0.75worst_rep1,75,1,9.98,10.37082192,
+Worst,F,F_0.75worst_rep3,75,3,13.66,6.69082192,2
+Worst,F,F_0.5worst_rep2,50,2,16.62,3.73082192,1
+Worst,F,F_0.5worst_rep3,50,3,16.99,3.36082192,3
+Worst,F,F_0.25worst_rep1,25,1,18.84,1.51082192,
+Worst,F,F_0.5worst_rep1,50,1,18.97,1.38082192,
+Worst,F,F_0.25worst_rep3,25,3,19.01,1.34082192,
+Worst,F,F_0.25worst_rep2,25,2,20.66,-0.30917808,
+Worst,G,G_0.75worst_rep2,75,2,6.41,13.94082192,
+Worst,G,G_0.75worst_rep1,75,1,11.35,9.00082192,
+Worst,G,G_0.75worst_rep3,75,3,12.07,8.28082192,3
+Worst,G,G_0.5worst_rep2,50,2,14.47,5.88082192,1
+Worst,G,G_0.5worst_rep3,50,3,15.64,4.71082192,2
+Worst,G,G_1.0worst_rep1,100,1,17.47,2.88082192,
+Worst,G,G_0.25worst_rep2,25,2,17.97,2.38082192,
+Worst,G,G_0.25worst_rep1,25,1,18.94,1.41082192,
+Worst,G,G_0.25worst_rep3,25,3,19.22,1.13082192,
+Worst,G,G_0.5worst_rep1,50,1,19.86,0.49082192,
+Worst,H,H_0.5worst_rep1,50,1,16.43,3.92082192,1
+Worst,H,H_0.75worst_rep1,75,1,16.7,3.65082192,3
+Worst,H,H_1.0worst_rep1,100,1,18.17,2.18082192,2
+Worst,H,H_0.75worst_rep3,75,3,19.32,1.03082192,
+Worst,H,H_0.5worst_rep3,50,3,19.66,0.69082192,
+Worst,H,H_0.5worst_rep2,50,2,20.02,0.33082192,
+Worst,H,H_0.75worst_rep2,75,2,20.9,-0.54917808,
+Worst,H,H_0.25worst_rep2,25,2,21,-0.64917808,
+NC_001422,NC_001422,NC_001422,NC_001422,NC_001422,20.35082192,0,
+anc,anc,anc,anc,anc,20.33,0.02082192,

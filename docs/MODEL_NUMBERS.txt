@@ -1,0 +1,27 @@
+PRIMARY MODEL — raw fitness, wild-type assays included, assay date as a random effect
+====================================================================================
+
+  310 construct assays + 73 wild-type assays, 63 dates
+
+[1] Technician
+  Lu - Emma: -0.47 [-1.42,+0.48], P=0.332
+  technician x construct: -0.67 [-2.62,+1.27], P=0.498
+
+[2] Recoding strategy (reference = shuffle)
+  worst   vs shuffle: -0.01 [-1.14,+1.12], P=0.986
+  random  vs shuffle: -0.57 [-1.39,+0.24], P=0.170
+  (technician omitted: worst -0.40, P=0.333)
+
+[3] Extent of recoding, per gene
+  per whole gene:
+    F: -12.00 [-14.29,-9.72], P=7.7e-25
+    G: -10.80 [-13.26,-8.33], P=8.4e-18
+    H:  -5.94 [-8.67,-3.20], P=2.1e-05
+  per 100 codons changed:
+    F:  -2.80 [-3.34,-2.27], P=7.7e-25
+    G:  -6.13 [-7.53,-4.73], P=8.4e-18
+    H:  -1.80 [-2.63,-0.97], P=2.1e-05
+  gene x extent: likelihood ratio 28.50 on 2 df, P=6.5e-07
+
+[4] Construct-level values for tables (model-adjusted: fitness minus the fitted date effect)
+  wild-type baseline after adjustment: 24.36 doublings/hr

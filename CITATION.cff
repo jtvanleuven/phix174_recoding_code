@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this data/code, please cite the associated manuscript."
+title: "Codon recoding of bacteriophage phiX174: fitness effects of synonymous changes"
+type: dataset
+authors:
+  - name: "J. van Leuven"
+    affiliation: "Washington University in St. Louis"
+repository-code: "https://github.com/TBD/phix174_recoding_code"
+date-released: "2026-10-26"
+license: MIT
+keywords:
+  - phiX174
+  - codon recoding
+  - deoptimization
+  - viral fitness
+  - bacteriophage
