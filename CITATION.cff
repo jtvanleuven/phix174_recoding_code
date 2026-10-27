@@ -5,7 +5,7 @@ type: dataset
 authors:
   - name: "J. van Leuven"
     affiliation: "Washington University in St. Louis"
-repository-code: "https://github.com/TBD/phix174_recoding_code"
+repository-code: "https://github.com/jtvanleuven/phix174_recoding_code"
 date-released: "2026-10-26"
 license: MIT
 keywords:
